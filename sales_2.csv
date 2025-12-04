@@ -1,0 +1,1044 @@
+OrderID,CustomerID,CompanyName,ProductID,ProductName,Category,RegionID,RegionName,OrderDate,Quantity,UnitPrice,TotalPrice,OrderStatus
+ORD-0001,C005,AI Systems,P002,Smartphone,Electronics,R004,West,2023-05-18,1,1344,1344,Delivered
+ORD-0001,C005,AI Systems,P004,Monitor,Electronics,R004,West,2023-05-18,1,390,390,Delivered
+ORD-0001,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-05-18,4,1140,4560,Delivered
+ORD-0002,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-07-30,1,200,200,Shipped
+ORD-0002,C001,TechCorp,P006,Mouse,Accessories,R001,North,2023-07-30,2,1105,2210,Shipped
+ORD-0003,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-04-30,2,539,1078,Shipped
+ORD-0003,C002,InnovaSolutions,P002,Smartphone,Electronics,R001,North,2023-04-30,3,439,1317,Shipped
+ORD-0004,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-10-05,3,1435,4305,Delivered
+ORD-0004,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-10-05,2,668,1336,Delivered
+ORD-0004,C007,NextGen Consulting,P007,Headphones,Accessories,R001,North,2023-10-05,2,213,426,Delivered
+ORD-0005,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-08-21,1,888,888,Delivered
+ORD-0005,C003,DataWorks,P007,Headphones,Accessories,R002,South,2023-08-21,4,384,1536,Delivered
+ORD-0006,C004,CloudNet,P002,Smartphone,Electronics,R003,East,2023-08-23,5,529,2645,Cancelled
+ORD-0007,C008,CyberSecure,P002,Smartphone,Electronics,R003,East,2023-02-20,3,1493,4479,Cancelled
+ORD-0008,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-12-29,3,698,2094,Cancelled
+ORD-0008,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-12-29,5,710,3550,Cancelled
+ORD-0008,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-12-29,1,682,682,Cancelled
+ORD-0009,C003,DataWorks,P006,Mouse,Accessories,R003,East,2023-12-10,3,1479,4437,Pending
+ORD-0009,C003,DataWorks,P007,Headphones,Accessories,R003,East,2023-12-10,5,847,4235,Pending
+ORD-0009,C003,DataWorks,P004,Monitor,Electronics,R003,East,2023-12-10,4,345,1380,Pending
+ORD-0010,C006,GreenTech,P001,Laptop,Electronics,R001,North,2023-09-28,5,923,4615,Delivered
+ORD-0010,C006,GreenTech,P002,Smartphone,Electronics,R001,North,2023-09-28,1,819,819,Delivered
+ORD-0010,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-09-28,3,308,924,Delivered
+ORD-0011,C002,InnovaSolutions,P004,Monitor,Electronics,R003,East,2023-08-12,3,399,1197,Cancelled
+ORD-0012,C007,NextGen Consulting,P006,Mouse,Accessories,R001,North,2023-04-30,1,400,400,Shipped
+ORD-0012,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-04-30,1,1122,1122,Shipped
+ORD-0012,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-04-30,3,1256,3768,Shipped
+ORD-0013,C007,NextGen Consulting,P003,Tablet,Electronics,R004,West,2023-06-26,4,518,2072,Delivered
+ORD-0013,C007,NextGen Consulting,P005,Keyboard,Accessories,R004,West,2023-06-26,3,697,2091,Delivered
+ORD-0013,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-06-26,4,1455,5820,Delivered
+ORD-0014,C006,GreenTech,P002,Smartphone,Electronics,R003,East,2023-12-14,1,573,573,Cancelled
+ORD-0014,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-12-14,4,300,1200,Cancelled
+ORD-0015,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-10-23,1,123,123,Pending
+ORD-0015,C002,InnovaSolutions,P008,Smartwatch,Electronics,R001,North,2023-10-23,3,343,1029,Pending
+ORD-0016,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-05-18,2,1068,2136,Cancelled
+ORD-0016,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-05-18,2,589,1178,Cancelled
+ORD-0017,C008,CyberSecure,P005,Keyboard,Accessories,R003,East,2023-04-21,2,578,1156,Cancelled
+ORD-0017,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-04-21,1,444,444,Cancelled
+ORD-0018,C008,CyberSecure,P007,Headphones,Accessories,R001,North,2023-09-13,1,440,440,Shipped
+ORD-0018,C008,CyberSecure,P001,Laptop,Electronics,R001,North,2023-09-13,3,1382,4146,Shipped
+ORD-0019,C004,CloudNet,P007,Headphones,Accessories,R004,West,2023-07-29,4,613,2452,Pending
+ORD-0019,C004,CloudNet,P002,Smartphone,Electronics,R004,West,2023-07-29,2,1439,2878,Pending
+ORD-0019,C004,CloudNet,P004,Monitor,Electronics,R004,West,2023-07-29,5,551,2755,Pending
+ORD-0020,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-02-20,2,808,1616,Shipped
+ORD-0020,C007,NextGen Consulting,P006,Mouse,Accessories,R001,North,2023-02-20,4,873,3492,Shipped
+ORD-0020,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-02-20,4,1098,4392,Shipped
+ORD-0021,C004,CloudNet,P008,Smartwatch,Electronics,R003,East,2023-08-21,5,54,270,Cancelled
+ORD-0021,C004,CloudNet,P007,Headphones,Accessories,R003,East,2023-08-21,5,1400,7000,Cancelled
+ORD-0022,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-01-17,2,909,1818,Cancelled
+ORD-0022,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-01-17,1,1456,1456,Cancelled
+ORD-0022,C007,NextGen Consulting,P007,Headphones,Accessories,R004,West,2023-01-17,5,1226,6130,Cancelled
+ORD-0023,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-07-22,1,440,440,Delivered
+ORD-0024,C002,InnovaSolutions,P005,Keyboard,Accessories,R003,East,2023-11-23,2,229,458,Shipped
+ORD-0024,C002,InnovaSolutions,P002,Smartphone,Electronics,R003,East,2023-11-23,3,368,1104,Shipped
+ORD-0024,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-11-23,2,1408,2816,Shipped
+ORD-0025,C002,InnovaSolutions,P007,Headphones,Accessories,R002,South,2023-04-06,5,767,3835,Cancelled
+ORD-0025,C002,InnovaSolutions,P004,Monitor,Electronics,R002,South,2023-04-06,4,1486,5944,Cancelled
+ORD-0025,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-04-06,5,787,3935,Cancelled
+ORD-0026,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-12-28,3,1490,4470,Shipped
+ORD-0026,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-12-28,5,1317,6585,Shipped
+ORD-0027,C008,CyberSecure,P002,Smartphone,Electronics,R001,North,2023-09-02,5,1435,7175,Delivered
+ORD-0028,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-05-19,1,1013,1013,Shipped
+ORD-0028,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-05-19,2,312,624,Shipped
+ORD-0029,C007,NextGen Consulting,P008,Smartwatch,Electronics,R004,West,2023-07-23,3,487,1461,Delivered
+ORD-0030,C001,TechCorp,P004,Monitor,Electronics,R001,North,2023-09-22,2,862,1724,Cancelled
+ORD-0030,C001,TechCorp,P007,Headphones,Accessories,R001,North,2023-09-22,2,1490,2980,Cancelled
+ORD-0030,C001,TechCorp,P006,Mouse,Accessories,R001,North,2023-09-22,5,907,4535,Cancelled
+ORD-0031,C008,CyberSecure,P001,Laptop,Electronics,R003,East,2023-01-14,5,1374,6870,Shipped
+ORD-0031,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-01-14,3,1384,4152,Shipped
+ORD-0031,C008,CyberSecure,P007,Headphones,Accessories,R003,East,2023-01-14,4,705,2820,Shipped
+ORD-0032,C001,TechCorp,P001,Laptop,Electronics,R004,West,2023-09-23,5,912,4560,Delivered
+ORD-0032,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-09-23,1,548,548,Delivered
+ORD-0033,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-07-12,2,575,1150,Pending
+ORD-0034,C004,CloudNet,P008,Smartwatch,Electronics,R001,North,2023-11-13,5,1297,6485,Shipped
+ORD-0034,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-11-13,4,593,2372,Shipped
+ORD-0035,C004,CloudNet,P005,Keyboard,Accessories,R002,South,2023-08-31,2,1329,2658,Delivered
+ORD-0036,C004,CloudNet,P008,Smartwatch,Electronics,R003,East,2023-09-29,2,492,984,Delivered
+ORD-0036,C004,CloudNet,P004,Monitor,Electronics,R003,East,2023-09-29,2,1383,2766,Delivered
+ORD-0037,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-12-08,1,1365,1365,Pending
+ORD-0037,C004,CloudNet,P001,Laptop,Electronics,R001,North,2023-12-08,2,1476,2952,Pending
+ORD-0038,C008,CyberSecure,P006,Mouse,Accessories,R004,West,2023-04-01,4,935,3740,Pending
+ORD-0039,C006,GreenTech,P007,Headphones,Accessories,R004,West,2023-03-01,3,408,1224,Cancelled
+ORD-0039,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-03-01,2,231,462,Cancelled
+ORD-0039,C006,GreenTech,P006,Mouse,Accessories,R004,West,2023-03-01,4,1278,5112,Cancelled
+ORD-0040,C002,InnovaSolutions,P008,Smartwatch,Electronics,R001,North,2023-12-19,5,1032,5160,Shipped
+ORD-0041,C005,AI Systems,P007,Headphones,Accessories,R003,East,2023-09-02,3,314,942,Cancelled
+ORD-0041,C005,AI Systems,P008,Smartwatch,Electronics,R003,East,2023-09-02,3,485,1455,Cancelled
+ORD-0042,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-06-16,5,291,1455,Delivered
+ORD-0043,C003,DataWorks,P001,Laptop,Electronics,R003,East,2023-01-14,1,1288,1288,Pending
+ORD-0043,C003,DataWorks,P003,Tablet,Electronics,R003,East,2023-01-14,4,329,1316,Pending
+ORD-0044,C004,CloudNet,P005,Keyboard,Accessories,R003,East,2023-05-31,4,1129,4516,Shipped
+ORD-0045,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-07-20,2,896,1792,Cancelled
+ORD-0045,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-07-20,4,948,3792,Cancelled
+ORD-0046,C004,CloudNet,P003,Tablet,Electronics,R004,West,2023-04-28,2,1022,2044,Delivered
+ORD-0047,C005,AI Systems,P007,Headphones,Accessories,R003,East,2023-01-22,4,302,1208,Shipped
+ORD-0047,C005,AI Systems,P004,Monitor,Electronics,R003,East,2023-01-22,5,357,1785,Shipped
+ORD-0047,C005,AI Systems,P001,Laptop,Electronics,R003,East,2023-01-22,4,457,1828,Shipped
+ORD-0048,C008,CyberSecure,P007,Headphones,Accessories,R002,South,2023-10-06,4,1206,4824,Shipped
+ORD-0048,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-10-06,1,416,416,Shipped
+ORD-0048,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-10-06,1,937,937,Shipped
+ORD-0049,C007,NextGen Consulting,P008,Smartwatch,Electronics,R004,West,2023-09-17,4,105,420,Delivered
+ORD-0049,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-09-17,5,940,4700,Delivered
+ORD-0049,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-09-17,1,591,591,Delivered
+ORD-0050,C007,NextGen Consulting,P007,Headphones,Accessories,R003,East,2023-06-14,2,813,1626,Pending
+ORD-0050,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-06-14,1,395,395,Pending
+ORD-0051,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-02-27,5,840,4200,Pending
+ORD-0051,C007,NextGen Consulting,P007,Headphones,Accessories,R004,West,2023-02-27,5,593,2965,Pending
+ORD-0051,C007,NextGen Consulting,P003,Tablet,Electronics,R004,West,2023-02-27,1,1371,1371,Pending
+ORD-0052,C004,CloudNet,P007,Headphones,Accessories,R004,West,2023-05-12,1,1435,1435,Shipped
+ORD-0052,C004,CloudNet,P005,Keyboard,Accessories,R004,West,2023-05-12,3,900,2700,Shipped
+ORD-0053,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-12-10,5,461,2305,Cancelled
+ORD-0054,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-03-02,1,974,974,Shipped
+ORD-0054,C005,AI Systems,P007,Headphones,Accessories,R004,West,2023-03-02,5,1256,6280,Shipped
+ORD-0055,C008,CyberSecure,P001,Laptop,Electronics,R001,North,2023-01-29,3,1443,4329,Pending
+ORD-0055,C008,CyberSecure,P006,Mouse,Accessories,R001,North,2023-01-29,5,825,4125,Pending
+ORD-0055,C008,CyberSecure,P007,Headphones,Accessories,R001,North,2023-01-29,3,900,2700,Pending
+ORD-0056,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-01-23,2,1261,2522,Cancelled
+ORD-0057,C004,CloudNet,P001,Laptop,Electronics,R004,West,2023-12-18,2,305,610,Cancelled
+ORD-0057,C004,CloudNet,P004,Monitor,Electronics,R004,West,2023-12-18,1,69,69,Cancelled
+ORD-0058,C001,TechCorp,P002,Smartphone,Electronics,R002,South,2023-09-13,2,667,1334,Delivered
+ORD-0058,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-09-13,5,443,2215,Delivered
+ORD-0059,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-05-27,5,799,3995,Pending
+ORD-0059,C001,TechCorp,P003,Tablet,Electronics,R003,East,2023-05-27,1,1281,1281,Pending
+ORD-0060,C001,TechCorp,P002,Smartphone,Electronics,R004,West,2023-09-21,4,202,808,Shipped
+ORD-0060,C001,TechCorp,P008,Smartwatch,Electronics,R004,West,2023-09-21,1,780,780,Shipped
+ORD-0061,C005,AI Systems,P001,Laptop,Electronics,R004,West,2023-05-14,4,170,680,Shipped
+ORD-0061,C005,AI Systems,P003,Tablet,Electronics,R004,West,2023-05-14,1,527,527,Shipped
+ORD-0062,C004,CloudNet,P007,Headphones,Accessories,R002,South,2023-07-09,2,1106,2212,Shipped
+ORD-0062,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-07-09,2,355,710,Shipped
+ORD-0062,C004,CloudNet,P001,Laptop,Electronics,R002,South,2023-07-09,5,228,1140,Shipped
+ORD-0063,C002,InnovaSolutions,P007,Headphones,Accessories,R004,West,2023-04-14,3,1398,4194,Cancelled
+ORD-0063,C002,InnovaSolutions,P001,Laptop,Electronics,R004,West,2023-04-14,5,952,4760,Cancelled
+ORD-0063,C002,InnovaSolutions,P002,Smartphone,Electronics,R004,West,2023-04-14,3,145,435,Cancelled
+ORD-0064,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-05-27,5,1269,6345,Pending
+ORD-0064,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-05-27,3,507,1521,Pending
+ORD-0065,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-01-13,1,1063,1063,Delivered
+ORD-0066,C008,CyberSecure,P001,Laptop,Electronics,R002,South,2023-06-25,4,1447,5788,Shipped
+ORD-0067,C008,CyberSecure,P001,Laptop,Electronics,R002,South,2023-03-27,3,291,873,Cancelled
+ORD-0067,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-03-27,3,767,2301,Cancelled
+ORD-0067,C008,CyberSecure,P004,Monitor,Electronics,R002,South,2023-03-27,1,1148,1148,Cancelled
+ORD-0068,C001,TechCorp,P005,Keyboard,Accessories,R003,East,2023-04-04,3,513,1539,Delivered
+ORD-0068,C001,TechCorp,P003,Tablet,Electronics,R003,East,2023-04-04,4,785,3140,Delivered
+ORD-0069,C008,CyberSecure,P007,Headphones,Accessories,R004,West,2023-06-19,5,741,3705,Delivered
+ORD-0069,C008,CyberSecure,P004,Monitor,Electronics,R004,West,2023-06-19,4,171,684,Delivered
+ORD-0070,C005,AI Systems,P003,Tablet,Electronics,R003,East,2023-01-28,2,1479,2958,Cancelled
+ORD-0070,C005,AI Systems,P008,Smartwatch,Electronics,R003,East,2023-01-28,3,118,354,Cancelled
+ORD-0070,C005,AI Systems,P006,Mouse,Accessories,R003,East,2023-01-28,3,845,2535,Cancelled
+ORD-0071,C004,CloudNet,P001,Laptop,Electronics,R003,East,2023-12-07,2,966,1932,Cancelled
+ORD-0071,C004,CloudNet,P008,Smartwatch,Electronics,R003,East,2023-12-07,5,1209,6045,Cancelled
+ORD-0072,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-04-13,4,1057,4228,Pending
+ORD-0072,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-04-13,4,534,2136,Pending
+ORD-0072,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-04-13,2,81,162,Pending
+ORD-0073,C007,NextGen Consulting,P007,Headphones,Accessories,R003,East,2023-01-26,3,503,1509,Delivered
+ORD-0073,C007,NextGen Consulting,P003,Tablet,Electronics,R003,East,2023-01-26,4,1229,4916,Delivered
+ORD-0074,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-04-07,1,1146,1146,Shipped
+ORD-0074,C002,InnovaSolutions,P008,Smartwatch,Electronics,R003,East,2023-04-07,1,795,795,Shipped
+ORD-0075,C004,CloudNet,P005,Keyboard,Accessories,R001,North,2023-04-28,5,751,3755,Delivered
+ORD-0076,C008,CyberSecure,P004,Monitor,Electronics,R001,North,2023-06-15,1,881,881,Pending
+ORD-0076,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-06-15,2,815,1630,Pending
+ORD-0076,C008,CyberSecure,P006,Mouse,Accessories,R001,North,2023-06-15,4,1456,5824,Pending
+ORD-0077,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-05-15,5,167,835,Delivered
+ORD-0077,C006,GreenTech,P005,Keyboard,Accessories,R004,West,2023-05-15,4,980,3920,Delivered
+ORD-0078,C001,TechCorp,P008,Smartwatch,Electronics,R003,East,2023-01-18,4,57,228,Shipped
+ORD-0079,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-07-19,2,1328,2656,Pending
+ORD-0080,C002,InnovaSolutions,P006,Mouse,Accessories,R001,North,2023-01-03,1,460,460,Delivered
+ORD-0081,C003,DataWorks,P003,Tablet,Electronics,R002,South,2023-06-07,5,191,955,Cancelled
+ORD-0081,C003,DataWorks,P007,Headphones,Accessories,R002,South,2023-06-07,2,435,870,Cancelled
+ORD-0081,C003,DataWorks,P005,Keyboard,Accessories,R002,South,2023-06-07,1,1095,1095,Cancelled
+ORD-0082,C006,GreenTech,P005,Keyboard,Accessories,R004,West,2023-01-17,3,1167,3501,Cancelled
+ORD-0082,C006,GreenTech,P007,Headphones,Accessories,R004,West,2023-01-17,3,438,1314,Cancelled
+ORD-0082,C006,GreenTech,P002,Smartphone,Electronics,R004,West,2023-01-17,4,450,1800,Cancelled
+ORD-0083,C008,CyberSecure,P003,Tablet,Electronics,R001,North,2023-06-24,2,939,1878,Shipped
+ORD-0084,C003,DataWorks,P006,Mouse,Accessories,R003,East,2023-01-22,5,388,1940,Pending
+ORD-0085,C002,InnovaSolutions,P003,Tablet,Electronics,R001,North,2023-10-30,3,1052,3156,Pending
+ORD-0085,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-10-30,2,492,984,Pending
+ORD-0086,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-02-18,2,54,108,Shipped
+ORD-0086,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-02-18,1,911,911,Shipped
+ORD-0086,C005,AI Systems,P007,Headphones,Accessories,R001,North,2023-02-18,4,359,1436,Shipped
+ORD-0087,C005,AI Systems,P006,Mouse,Accessories,R001,North,2023-11-18,5,736,3680,Pending
+ORD-0087,C005,AI Systems,P001,Laptop,Electronics,R001,North,2023-11-18,5,732,3660,Pending
+ORD-0088,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-04-22,4,616,2464,Shipped
+ORD-0088,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-04-22,1,1436,1436,Shipped
+ORD-0088,C005,AI Systems,P004,Monitor,Electronics,R002,South,2023-04-22,1,658,658,Shipped
+ORD-0089,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-04-10,5,1388,6940,Pending
+ORD-0090,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-07-11,1,124,124,Pending
+ORD-0091,C003,DataWorks,P003,Tablet,Electronics,R001,North,2023-06-08,5,1473,7365,Pending
+ORD-0091,C003,DataWorks,P004,Monitor,Electronics,R001,North,2023-06-08,5,475,2375,Pending
+ORD-0092,C003,DataWorks,P006,Mouse,Accessories,R002,South,2023-08-28,4,803,3212,Shipped
+ORD-0092,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-08-28,4,1490,5960,Shipped
+ORD-0093,C001,TechCorp,P007,Headphones,Accessories,R002,South,2023-06-30,1,1005,1005,Shipped
+ORD-0093,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-06-30,4,313,1252,Shipped
+ORD-0093,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-06-30,1,310,310,Shipped
+ORD-0094,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-02-10,5,1247,6235,Shipped
+ORD-0094,C007,NextGen Consulting,P004,Monitor,Electronics,R001,North,2023-02-10,1,597,597,Shipped
+ORD-0094,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-02-10,2,343,686,Shipped
+ORD-0095,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-03-09,3,1146,3438,Pending
+ORD-0095,C001,TechCorp,P005,Keyboard,Accessories,R001,North,2023-03-09,1,616,616,Pending
+ORD-0096,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-10-21,1,636,636,Delivered
+ORD-0096,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-10-21,2,1436,2872,Delivered
+ORD-0096,C008,CyberSecure,P006,Mouse,Accessories,R004,West,2023-10-21,4,1418,5672,Delivered
+ORD-0097,C003,DataWorks,P001,Laptop,Electronics,R003,East,2023-08-25,3,1097,3291,Cancelled
+ORD-0097,C003,DataWorks,P008,Smartwatch,Electronics,R003,East,2023-08-25,4,1412,5648,Cancelled
+ORD-0098,C008,CyberSecure,P004,Monitor,Electronics,R004,West,2023-07-19,3,278,834,Cancelled
+ORD-0098,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-07-19,5,284,1420,Cancelled
+ORD-0099,C006,GreenTech,P004,Monitor,Electronics,R002,South,2023-03-03,3,205,615,Pending
+ORD-0099,C006,GreenTech,P005,Keyboard,Accessories,R002,South,2023-03-03,5,826,4130,Pending
+ORD-0099,C006,GreenTech,P007,Headphones,Accessories,R002,South,2023-03-03,3,490,1470,Pending
+ORD-0100,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-07-05,5,590,2950,Delivered
+ORD-0101,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-03-31,2,202,404,Delivered
+ORD-0101,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-03-31,2,1147,2294,Delivered
+ORD-0102,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-10-25,1,388,388,Delivered
+ORD-0102,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-10-25,1,561,561,Delivered
+ORD-0102,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-10-25,3,1469,4407,Delivered
+ORD-0103,C004,CloudNet,P006,Mouse,Accessories,R002,South,2023-09-18,3,377,1131,Cancelled
+ORD-0104,C008,CyberSecure,P003,Tablet,Electronics,R003,East,2023-04-30,3,57,171,Cancelled
+ORD-0104,C008,CyberSecure,P002,Smartphone,Electronics,R003,East,2023-04-30,1,709,709,Cancelled
+ORD-0104,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-04-30,3,1320,3960,Cancelled
+ORD-0105,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-04-25,2,348,696,Cancelled
+ORD-0105,C005,AI Systems,P008,Smartwatch,Electronics,R004,West,2023-04-25,5,831,4155,Cancelled
+ORD-0105,C005,AI Systems,P002,Smartphone,Electronics,R004,West,2023-04-25,4,643,2572,Cancelled
+ORD-0106,C001,TechCorp,P008,Smartwatch,Electronics,R001,North,2023-08-26,2,1255,2510,Cancelled
+ORD-0106,C001,TechCorp,P001,Laptop,Electronics,R001,North,2023-08-26,5,623,3115,Cancelled
+ORD-0106,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-08-26,3,750,2250,Cancelled
+ORD-0107,C004,CloudNet,P004,Monitor,Electronics,R004,West,2023-02-08,3,443,1329,Shipped
+ORD-0107,C004,CloudNet,P002,Smartphone,Electronics,R004,West,2023-02-08,4,445,1780,Shipped
+ORD-0108,C001,TechCorp,P003,Tablet,Electronics,R004,West,2023-12-03,5,1139,5695,Cancelled
+ORD-0109,C001,TechCorp,P001,Laptop,Electronics,R004,West,2023-07-23,1,1403,1403,Shipped
+ORD-0109,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-07-23,2,1415,2830,Shipped
+ORD-0109,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-07-23,5,1434,7170,Shipped
+ORD-0110,C007,NextGen Consulting,P004,Monitor,Electronics,R001,North,2023-01-04,1,1090,1090,Shipped
+ORD-0110,C007,NextGen Consulting,P007,Headphones,Accessories,R001,North,2023-01-04,2,240,480,Shipped
+ORD-0111,C004,CloudNet,P004,Monitor,Electronics,R003,East,2023-11-20,3,683,2049,Delivered
+ORD-0111,C004,CloudNet,P002,Smartphone,Electronics,R003,East,2023-11-20,1,279,279,Delivered
+ORD-0111,C004,CloudNet,P007,Headphones,Accessories,R003,East,2023-11-20,4,1281,5124,Delivered
+ORD-0112,C008,CyberSecure,P005,Keyboard,Accessories,R004,West,2023-09-13,1,441,441,Shipped
+ORD-0113,C006,GreenTech,P001,Laptop,Electronics,R003,East,2023-04-19,4,795,3180,Cancelled
+ORD-0113,C006,GreenTech,P003,Tablet,Electronics,R003,East,2023-04-19,5,285,1425,Cancelled
+ORD-0114,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-09-16,4,297,1188,Shipped
+ORD-0114,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-09-16,5,1123,5615,Shipped
+ORD-0115,C002,InnovaSolutions,P004,Monitor,Electronics,R001,North,2023-03-21,4,330,1320,Pending
+ORD-0115,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-03-21,5,123,615,Pending
+ORD-0115,C002,InnovaSolutions,P007,Headphones,Accessories,R001,North,2023-03-21,4,977,3908,Pending
+ORD-0116,C006,GreenTech,P008,Smartwatch,Electronics,R002,South,2023-07-07,2,1290,2580,Delivered
+ORD-0116,C006,GreenTech,P004,Monitor,Electronics,R002,South,2023-07-07,3,145,435,Delivered
+ORD-0116,C006,GreenTech,P005,Keyboard,Accessories,R002,South,2023-07-07,3,306,918,Delivered
+ORD-0117,C002,InnovaSolutions,P002,Smartphone,Electronics,R002,South,2023-11-19,3,1305,3915,Cancelled
+ORD-0117,C002,InnovaSolutions,P006,Mouse,Accessories,R002,South,2023-11-19,1,651,651,Cancelled
+ORD-0118,C002,InnovaSolutions,P004,Monitor,Electronics,R004,West,2023-04-11,5,246,1230,Pending
+ORD-0119,C006,GreenTech,P002,Smartphone,Electronics,R003,East,2023-09-25,4,1273,5092,Delivered
+ORD-0119,C006,GreenTech,P005,Keyboard,Accessories,R003,East,2023-09-25,4,1267,5068,Delivered
+ORD-0119,C006,GreenTech,P006,Mouse,Accessories,R003,East,2023-09-25,1,894,894,Delivered
+ORD-0120,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-12-22,2,1048,2096,Delivered
+ORD-0121,C004,CloudNet,P004,Monitor,Electronics,R001,North,2023-12-21,1,922,922,Delivered
+ORD-0121,C004,CloudNet,P007,Headphones,Accessories,R001,North,2023-12-21,1,974,974,Delivered
+ORD-0121,C004,CloudNet,P008,Smartwatch,Electronics,R001,North,2023-12-21,3,348,1044,Delivered
+ORD-0122,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-01-25,4,998,3992,Pending
+ORD-0122,C008,CyberSecure,P006,Mouse,Accessories,R004,West,2023-01-25,5,824,4120,Pending
+ORD-0122,C008,CyberSecure,P005,Keyboard,Accessories,R004,West,2023-01-25,3,948,2844,Pending
+ORD-0123,C005,AI Systems,P003,Tablet,Electronics,R003,East,2023-09-03,1,514,514,Cancelled
+ORD-0123,C005,AI Systems,P008,Smartwatch,Electronics,R003,East,2023-09-03,2,885,1770,Cancelled
+ORD-0124,C007,NextGen Consulting,P008,Smartwatch,Electronics,R004,West,2023-05-13,4,727,2908,Cancelled
+ORD-0124,C007,NextGen Consulting,P002,Smartphone,Electronics,R004,West,2023-05-13,4,603,2412,Cancelled
+ORD-0124,C007,NextGen Consulting,P003,Tablet,Electronics,R004,West,2023-05-13,2,240,480,Cancelled
+ORD-0125,C002,InnovaSolutions,P006,Mouse,Accessories,R001,North,2023-08-05,3,547,1641,Delivered
+ORD-0126,C003,DataWorks,P003,Tablet,Electronics,R002,South,2023-06-02,3,72,216,Cancelled
+ORD-0126,C003,DataWorks,P007,Headphones,Accessories,R002,South,2023-06-02,5,1494,7470,Cancelled
+ORD-0126,C003,DataWorks,P004,Monitor,Electronics,R002,South,2023-06-02,1,805,805,Cancelled
+ORD-0127,C005,AI Systems,P007,Headphones,Accessories,R002,South,2023-11-07,2,67,134,Cancelled
+ORD-0127,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-11-07,4,1280,5120,Cancelled
+ORD-0128,C007,NextGen Consulting,P007,Headphones,Accessories,R002,South,2023-03-23,5,891,4455,Pending
+ORD-0128,C007,NextGen Consulting,P005,Keyboard,Accessories,R002,South,2023-03-23,3,688,2064,Pending
+ORD-0128,C007,NextGen Consulting,P001,Laptop,Electronics,R002,South,2023-03-23,1,1249,1249,Pending
+ORD-0129,C006,GreenTech,P001,Laptop,Electronics,R002,South,2023-08-01,1,1113,1113,Delivered
+ORD-0130,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-02-20,4,1257,5028,Pending
+ORD-0130,C001,TechCorp,P007,Headphones,Accessories,R004,West,2023-02-20,4,332,1328,Pending
+ORD-0130,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-02-20,4,487,1948,Pending
+ORD-0131,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-08-08,3,252,756,Delivered
+ORD-0132,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-01-26,4,1040,4160,Delivered
+ORD-0133,C006,GreenTech,P002,Smartphone,Electronics,R002,South,2023-01-27,2,669,1338,Pending
+ORD-0134,C005,AI Systems,P005,Keyboard,Accessories,R003,East,2023-09-09,4,329,1316,Pending
+ORD-0134,C005,AI Systems,P001,Laptop,Electronics,R003,East,2023-09-09,1,1145,1145,Pending
+ORD-0135,C006,GreenTech,P005,Keyboard,Accessories,R004,West,2023-05-31,5,438,2190,Pending
+ORD-0135,C006,GreenTech,P001,Laptop,Electronics,R004,West,2023-05-31,2,472,944,Pending
+ORD-0135,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-05-31,5,517,2585,Pending
+ORD-0136,C002,InnovaSolutions,P007,Headphones,Accessories,R001,North,2023-07-23,5,1063,5315,Pending
+ORD-0136,C002,InnovaSolutions,P006,Mouse,Accessories,R001,North,2023-07-23,2,1430,2860,Pending
+ORD-0137,C005,AI Systems,P005,Keyboard,Accessories,R002,South,2023-09-22,3,836,2508,Pending
+ORD-0137,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-09-22,3,1319,3957,Pending
+ORD-0137,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-09-22,2,864,1728,Pending
+ORD-0138,C007,NextGen Consulting,P006,Mouse,Accessories,R003,East,2023-11-26,2,211,422,Cancelled
+ORD-0139,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-03-20,5,454,2270,Delivered
+ORD-0139,C001,TechCorp,P004,Monitor,Electronics,R002,South,2023-03-20,3,486,1458,Delivered
+ORD-0139,C001,TechCorp,P002,Smartphone,Electronics,R002,South,2023-03-20,1,80,80,Delivered
+ORD-0140,C002,InnovaSolutions,P008,Smartwatch,Electronics,R003,East,2023-12-29,5,61,305,Delivered
+ORD-0140,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-12-29,5,275,1375,Delivered
+ORD-0141,C006,GreenTech,P002,Smartphone,Electronics,R002,South,2023-12-22,1,1029,1029,Pending
+ORD-0141,C006,GreenTech,P006,Mouse,Accessories,R002,South,2023-12-22,1,393,393,Pending
+ORD-0142,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-05-27,4,533,2132,Pending
+ORD-0143,C004,CloudNet,P005,Keyboard,Accessories,R001,North,2023-11-06,4,723,2892,Cancelled
+ORD-0143,C004,CloudNet,P007,Headphones,Accessories,R001,North,2023-11-06,1,153,153,Cancelled
+ORD-0144,C003,DataWorks,P006,Mouse,Accessories,R004,West,2023-03-07,2,1166,2332,Pending
+ORD-0144,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-03-07,3,918,2754,Pending
+ORD-0144,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-03-07,5,1299,6495,Pending
+ORD-0145,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-04-05,1,469,469,Shipped
+ORD-0146,C007,NextGen Consulting,P002,Smartphone,Electronics,R002,South,2023-01-31,1,1067,1067,Delivered
+ORD-0147,C007,NextGen Consulting,P007,Headphones,Accessories,R004,West,2023-03-03,3,1131,3393,Pending
+ORD-0147,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-03-03,3,193,579,Pending
+ORD-0148,C003,DataWorks,P006,Mouse,Accessories,R004,West,2023-03-30,1,663,663,Delivered
+ORD-0149,C002,InnovaSolutions,P002,Smartphone,Electronics,R001,North,2023-08-12,1,1071,1071,Delivered
+ORD-0149,C002,InnovaSolutions,P007,Headphones,Accessories,R001,North,2023-08-12,2,757,1514,Delivered
+ORD-0150,C008,CyberSecure,P001,Laptop,Electronics,R001,North,2023-10-03,3,1184,3552,Cancelled
+ORD-0150,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-10-03,1,1112,1112,Cancelled
+ORD-0151,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-07-11,3,1415,4245,Pending
+ORD-0151,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-07-11,1,466,466,Pending
+ORD-0152,C007,NextGen Consulting,P007,Headphones,Accessories,R003,East,2023-07-09,1,1234,1234,Delivered
+ORD-0152,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-07-09,3,703,2109,Delivered
+ORD-0153,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-07-31,5,967,4835,Pending
+ORD-0153,C003,DataWorks,P001,Laptop,Electronics,R003,East,2023-07-31,3,1323,3969,Pending
+ORD-0153,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-07-31,1,500,500,Pending
+ORD-0154,C003,DataWorks,P005,Keyboard,Accessories,R004,West,2023-10-10,4,784,3136,Delivered
+ORD-0154,C003,DataWorks,P003,Tablet,Electronics,R004,West,2023-10-10,2,1495,2990,Delivered
+ORD-0154,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-10-10,3,1404,4212,Delivered
+ORD-0155,C008,CyberSecure,P006,Mouse,Accessories,R003,East,2023-02-06,1,1394,1394,Shipped
+ORD-0155,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-02-06,5,191,955,Shipped
+ORD-0155,C008,CyberSecure,P007,Headphones,Accessories,R003,East,2023-02-06,2,205,410,Shipped
+ORD-0156,C007,NextGen Consulting,P001,Laptop,Electronics,R004,West,2023-10-17,3,289,867,Delivered
+ORD-0157,C005,AI Systems,P001,Laptop,Electronics,R001,North,2023-10-16,5,460,2300,Delivered
+ORD-0157,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-10-16,1,573,573,Delivered
+ORD-0158,C003,DataWorks,P003,Tablet,Electronics,R004,West,2023-06-01,4,323,1292,Pending
+ORD-0158,C003,DataWorks,P006,Mouse,Accessories,R004,West,2023-06-01,3,757,2271,Pending
+ORD-0158,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-06-01,2,886,1772,Pending
+ORD-0159,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-03-02,2,224,448,Pending
+ORD-0159,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-03-02,1,1291,1291,Pending
+ORD-0160,C006,GreenTech,P004,Monitor,Electronics,R004,West,2023-06-15,2,333,666,Delivered
+ORD-0160,C006,GreenTech,P006,Mouse,Accessories,R004,West,2023-06-15,1,237,237,Delivered
+ORD-0160,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-06-15,2,222,444,Delivered
+ORD-0161,C007,NextGen Consulting,P007,Headphones,Accessories,R004,West,2023-06-13,4,803,3212,Delivered
+ORD-0161,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-06-13,5,1128,5640,Delivered
+ORD-0161,C007,NextGen Consulting,P008,Smartwatch,Electronics,R004,West,2023-06-13,3,882,2646,Delivered
+ORD-0162,C006,GreenTech,P002,Smartphone,Electronics,R003,East,2023-06-22,2,935,1870,Delivered
+ORD-0163,C007,NextGen Consulting,P008,Smartwatch,Electronics,R002,South,2023-08-06,1,779,779,Delivered
+ORD-0164,C003,DataWorks,P008,Smartwatch,Electronics,R004,West,2023-11-05,2,1448,2896,Shipped
+ORD-0164,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-11-05,2,272,544,Shipped
+ORD-0164,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-11-05,4,1294,5176,Shipped
+ORD-0165,C004,CloudNet,P006,Mouse,Accessories,R004,West,2023-06-26,2,983,1966,Shipped
+ORD-0166,C006,GreenTech,P005,Keyboard,Accessories,R002,South,2023-05-16,1,711,711,Pending
+ORD-0166,C006,GreenTech,P001,Laptop,Electronics,R002,South,2023-05-16,2,686,1372,Pending
+ORD-0166,C006,GreenTech,P004,Monitor,Electronics,R002,South,2023-05-16,3,1105,3315,Pending
+ORD-0167,C006,GreenTech,P005,Keyboard,Accessories,R001,North,2023-12-02,5,297,1485,Shipped
+ORD-0167,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-12-02,1,678,678,Shipped
+ORD-0168,C003,DataWorks,P008,Smartwatch,Electronics,R003,East,2023-12-15,1,770,770,Cancelled
+ORD-0168,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-12-15,2,1069,2138,Cancelled
+ORD-0168,C003,DataWorks,P007,Headphones,Accessories,R003,East,2023-12-15,5,1280,6400,Cancelled
+ORD-0169,C003,DataWorks,P002,Smartphone,Electronics,R002,South,2023-10-18,4,1041,4164,Pending
+ORD-0169,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-10-18,1,1059,1059,Pending
+ORD-0169,C003,DataWorks,P007,Headphones,Accessories,R002,South,2023-10-18,1,457,457,Pending
+ORD-0170,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-06-02,4,648,2592,Delivered
+ORD-0170,C008,CyberSecure,P008,Smartwatch,Electronics,R004,West,2023-06-02,2,800,1600,Delivered
+ORD-0171,C002,InnovaSolutions,P004,Monitor,Electronics,R004,West,2023-09-18,2,158,316,Delivered
+ORD-0171,C002,InnovaSolutions,P001,Laptop,Electronics,R004,West,2023-09-18,2,1341,2682,Delivered
+ORD-0171,C002,InnovaSolutions,P008,Smartwatch,Electronics,R004,West,2023-09-18,2,112,224,Delivered
+ORD-0172,C005,AI Systems,P008,Smartwatch,Electronics,R004,West,2023-05-31,1,747,747,Cancelled
+ORD-0172,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-05-31,1,969,969,Cancelled
+ORD-0172,C005,AI Systems,P006,Mouse,Accessories,R004,West,2023-05-31,4,78,312,Cancelled
+ORD-0173,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-08-27,2,61,122,Pending
+ORD-0173,C003,DataWorks,P006,Mouse,Accessories,R004,West,2023-08-27,5,509,2545,Pending
+ORD-0173,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-08-27,3,965,2895,Pending
+ORD-0174,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-10-31,4,1210,4840,Delivered
+ORD-0175,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-11-26,3,1376,4128,Cancelled
+ORD-0176,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-07-19,5,240,1200,Delivered
+ORD-0177,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-11-11,4,1178,4712,Delivered
+ORD-0177,C001,TechCorp,P006,Mouse,Accessories,R001,North,2023-11-11,4,413,1652,Delivered
+ORD-0177,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-11-11,3,762,2286,Delivered
+ORD-0178,C003,DataWorks,P003,Tablet,Electronics,R001,North,2023-05-20,5,956,4780,Delivered
+ORD-0178,C003,DataWorks,P005,Keyboard,Accessories,R001,North,2023-05-20,4,902,3608,Delivered
+ORD-0178,C003,DataWorks,P006,Mouse,Accessories,R001,North,2023-05-20,3,194,582,Delivered
+ORD-0179,C006,GreenTech,P004,Monitor,Electronics,R004,West,2023-11-26,4,461,1844,Cancelled
+ORD-0179,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-11-26,2,1249,2498,Cancelled
+ORD-0180,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-01-23,3,715,2145,Cancelled
+ORD-0181,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-06-13,4,482,1928,Delivered
+ORD-0182,C003,DataWorks,P001,Laptop,Electronics,R001,North,2023-06-04,2,963,1926,Cancelled
+ORD-0183,C003,DataWorks,P008,Smartwatch,Electronics,R003,East,2023-05-10,4,1487,5948,Shipped
+ORD-0183,C003,DataWorks,P007,Headphones,Accessories,R003,East,2023-05-10,4,935,3740,Shipped
+ORD-0183,C003,DataWorks,P003,Tablet,Electronics,R003,East,2023-05-10,1,1378,1378,Shipped
+ORD-0184,C002,InnovaSolutions,P006,Mouse,Accessories,R001,North,2023-09-12,2,807,1614,Cancelled
+ORD-0184,C002,InnovaSolutions,P008,Smartwatch,Electronics,R001,North,2023-09-12,4,588,2352,Cancelled
+ORD-0185,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-11-24,3,704,2112,Pending
+ORD-0185,C005,AI Systems,P005,Keyboard,Accessories,R002,South,2023-11-24,5,635,3175,Pending
+ORD-0185,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-11-24,3,1097,3291,Pending
+ORD-0186,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-05-09,3,743,2229,Delivered
+ORD-0187,C005,AI Systems,P003,Tablet,Electronics,R003,East,2023-06-10,5,990,4950,Delivered
+ORD-0187,C005,AI Systems,P005,Keyboard,Accessories,R003,East,2023-06-10,3,955,2865,Delivered
+ORD-0187,C005,AI Systems,P002,Smartphone,Electronics,R003,East,2023-06-10,5,1083,5415,Delivered
+ORD-0188,C003,DataWorks,P002,Smartphone,Electronics,R002,South,2023-03-01,5,489,2445,Pending
+ORD-0188,C003,DataWorks,P001,Laptop,Electronics,R002,South,2023-03-01,4,152,608,Pending
+ORD-0189,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-02-20,1,1186,1186,Cancelled
+ORD-0189,C008,CyberSecure,P005,Keyboard,Accessories,R002,South,2023-02-20,2,420,840,Cancelled
+ORD-0189,C008,CyberSecure,P001,Laptop,Electronics,R002,South,2023-02-20,1,764,764,Cancelled
+ORD-0190,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-07-29,4,589,2356,Pending
+ORD-0191,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-07-11,5,917,4585,Shipped
+ORD-0191,C001,TechCorp,P008,Smartwatch,Electronics,R004,West,2023-07-11,5,752,3760,Shipped
+ORD-0191,C001,TechCorp,P003,Tablet,Electronics,R004,West,2023-07-11,5,526,2630,Shipped
+ORD-0192,C001,TechCorp,P005,Keyboard,Accessories,R001,North,2023-08-03,4,245,980,Delivered
+ORD-0193,C004,CloudNet,P005,Keyboard,Accessories,R003,East,2023-04-18,4,1119,4476,Delivered
+ORD-0193,C004,CloudNet,P004,Monitor,Electronics,R003,East,2023-04-18,2,916,1832,Delivered
+ORD-0193,C004,CloudNet,P003,Tablet,Electronics,R003,East,2023-04-18,2,1440,2880,Delivered
+ORD-0194,C008,CyberSecure,P005,Keyboard,Accessories,R004,West,2023-10-28,2,495,990,Cancelled
+ORD-0194,C008,CyberSecure,P006,Mouse,Accessories,R004,West,2023-10-28,3,1069,3207,Cancelled
+ORD-0195,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-03-28,4,199,796,Pending
+ORD-0196,C006,GreenTech,P006,Mouse,Accessories,R004,West,2023-04-08,5,53,265,Delivered
+ORD-0196,C006,GreenTech,P007,Headphones,Accessories,R004,West,2023-04-08,4,1451,5804,Delivered
+ORD-0196,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-04-08,2,1200,2400,Delivered
+ORD-0197,C006,GreenTech,P006,Mouse,Accessories,R001,North,2023-04-14,2,1396,2792,Shipped
+ORD-0197,C006,GreenTech,P007,Headphones,Accessories,R001,North,2023-04-14,4,645,2580,Shipped
+ORD-0197,C006,GreenTech,P003,Tablet,Electronics,R001,North,2023-04-14,4,1439,5756,Shipped
+ORD-0198,C005,AI Systems,P008,Smartwatch,Electronics,R004,West,2023-05-20,2,1267,2534,Cancelled
+ORD-0199,C008,CyberSecure,P005,Keyboard,Accessories,R003,East,2023-05-03,4,147,588,Delivered
+ORD-0200,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-09-14,5,561,2805,Delivered
+ORD-0200,C006,GreenTech,P005,Keyboard,Accessories,R003,East,2023-09-14,4,1229,4916,Delivered
+ORD-0200,C006,GreenTech,P003,Tablet,Electronics,R003,East,2023-09-14,3,1384,4152,Delivered
+ORD-0201,C003,DataWorks,P005,Keyboard,Accessories,R001,North,2023-09-24,1,847,847,Pending
+ORD-0201,C003,DataWorks,P006,Mouse,Accessories,R001,North,2023-09-24,4,463,1852,Pending
+ORD-0201,C003,DataWorks,P002,Smartphone,Electronics,R001,North,2023-09-24,5,297,1485,Pending
+ORD-0202,C003,DataWorks,P006,Mouse,Accessories,R004,West,2023-02-20,4,1355,5420,Pending
+ORD-0202,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-02-20,1,118,118,Pending
+ORD-0203,C001,TechCorp,P005,Keyboard,Accessories,R001,North,2023-08-21,4,157,628,Delivered
+ORD-0204,C001,TechCorp,P007,Headphones,Accessories,R004,West,2023-12-26,2,151,302,Shipped
+ORD-0205,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-04-05,3,1073,3219,Delivered
+ORD-0205,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-04-05,2,279,558,Delivered
+ORD-0206,C004,CloudNet,P001,Laptop,Electronics,R004,West,2023-09-18,2,935,1870,Shipped
+ORD-0206,C004,CloudNet,P004,Monitor,Electronics,R004,West,2023-09-18,3,1399,4197,Shipped
+ORD-0207,C008,CyberSecure,P004,Monitor,Electronics,R003,East,2023-10-25,1,317,317,Shipped
+ORD-0207,C008,CyberSecure,P001,Laptop,Electronics,R003,East,2023-10-25,1,768,768,Shipped
+ORD-0207,C008,CyberSecure,P003,Tablet,Electronics,R003,East,2023-10-25,5,378,1890,Shipped
+ORD-0208,C003,DataWorks,P006,Mouse,Accessories,R001,North,2023-12-12,5,810,4050,Pending
+ORD-0209,C004,CloudNet,P007,Headphones,Accessories,R002,South,2023-03-24,5,1440,7200,Cancelled
+ORD-0210,C004,CloudNet,P005,Keyboard,Accessories,R001,North,2023-12-25,4,322,1288,Pending
+ORD-0210,C004,CloudNet,P001,Laptop,Electronics,R001,North,2023-12-25,4,780,3120,Pending
+ORD-0210,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-12-25,4,900,3600,Pending
+ORD-0211,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-12-11,1,1238,1238,Shipped
+ORD-0211,C008,CyberSecure,P001,Laptop,Electronics,R002,South,2023-12-11,4,94,376,Shipped
+ORD-0211,C008,CyberSecure,P007,Headphones,Accessories,R002,South,2023-12-11,2,951,1902,Shipped
+ORD-0212,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-04-29,5,669,3345,Shipped
+ORD-0213,C007,NextGen Consulting,P006,Mouse,Accessories,R003,East,2023-09-12,5,701,3505,Delivered
+ORD-0213,C007,NextGen Consulting,P004,Monitor,Electronics,R003,East,2023-09-12,3,1243,3729,Delivered
+ORD-0213,C007,NextGen Consulting,P001,Laptop,Electronics,R003,East,2023-09-12,4,678,2712,Delivered
+ORD-0214,C008,CyberSecure,P007,Headphones,Accessories,R002,South,2023-10-04,2,1405,2810,Shipped
+ORD-0214,C008,CyberSecure,P005,Keyboard,Accessories,R002,South,2023-10-04,2,237,474,Shipped
+ORD-0214,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-10-04,2,1171,2342,Shipped
+ORD-0215,C002,InnovaSolutions,P008,Smartwatch,Electronics,R003,East,2023-01-12,5,374,1870,Delivered
+ORD-0215,C002,InnovaSolutions,P006,Mouse,Accessories,R003,East,2023-01-12,3,976,2928,Delivered
+ORD-0216,C005,AI Systems,P005,Keyboard,Accessories,R003,East,2023-12-22,2,466,932,Pending
+ORD-0217,C003,DataWorks,P007,Headphones,Accessories,R002,South,2023-05-19,4,1028,4112,Cancelled
+ORD-0217,C003,DataWorks,P001,Laptop,Electronics,R002,South,2023-05-19,1,1080,1080,Cancelled
+ORD-0218,C006,GreenTech,P003,Tablet,Electronics,R002,South,2023-03-23,5,1462,7310,Delivered
+ORD-0218,C006,GreenTech,P002,Smartphone,Electronics,R002,South,2023-03-23,2,403,806,Delivered
+ORD-0218,C006,GreenTech,P005,Keyboard,Accessories,R002,South,2023-03-23,5,1347,6735,Delivered
+ORD-0219,C004,CloudNet,P003,Tablet,Electronics,R001,North,2023-10-04,2,529,1058,Shipped
+ORD-0219,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-10-04,2,471,942,Shipped
+ORD-0219,C004,CloudNet,P001,Laptop,Electronics,R001,North,2023-10-04,5,468,2340,Shipped
+ORD-0220,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-03-08,5,599,2995,Cancelled
+ORD-0220,C007,NextGen Consulting,P002,Smartphone,Electronics,R004,West,2023-03-08,4,207,828,Cancelled
+ORD-0221,C005,AI Systems,P006,Mouse,Accessories,R004,West,2023-11-13,2,844,1688,Pending
+ORD-0221,C005,AI Systems,P002,Smartphone,Electronics,R004,West,2023-11-13,1,1309,1309,Pending
+ORD-0221,C005,AI Systems,P007,Headphones,Accessories,R004,West,2023-11-13,3,99,297,Pending
+ORD-0222,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-09-08,3,1024,3072,Cancelled
+ORD-0222,C006,GreenTech,P003,Tablet,Electronics,R003,East,2023-09-08,1,594,594,Cancelled
+ORD-0223,C008,CyberSecure,P008,Smartwatch,Electronics,R004,West,2023-07-26,3,390,1170,Cancelled
+ORD-0223,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-07-26,5,449,2245,Cancelled
+ORD-0223,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-07-26,1,1466,1466,Cancelled
+ORD-0224,C008,CyberSecure,P002,Smartphone,Electronics,R001,North,2023-11-22,3,832,2496,Pending
+ORD-0224,C008,CyberSecure,P008,Smartwatch,Electronics,R001,North,2023-11-22,2,269,538,Pending
+ORD-0224,C008,CyberSecure,P006,Mouse,Accessories,R001,North,2023-11-22,4,552,2208,Pending
+ORD-0225,C006,GreenTech,P006,Mouse,Accessories,R001,North,2023-07-04,1,913,913,Delivered
+ORD-0226,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-10-07,4,359,1436,Shipped
+ORD-0227,C004,CloudNet,P007,Headphones,Accessories,R003,East,2023-05-04,1,1017,1017,Cancelled
+ORD-0227,C004,CloudNet,P004,Monitor,Electronics,R003,East,2023-05-04,1,461,461,Cancelled
+ORD-0228,C004,CloudNet,P006,Mouse,Accessories,R004,West,2023-06-07,5,117,585,Shipped
+ORD-0228,C004,CloudNet,P001,Laptop,Electronics,R004,West,2023-06-07,5,1452,7260,Shipped
+ORD-0229,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-12-07,1,220,220,Shipped
+ORD-0229,C005,AI Systems,P004,Monitor,Electronics,R002,South,2023-12-07,3,382,1146,Shipped
+ORD-0229,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-12-07,2,293,586,Shipped
+ORD-0230,C008,CyberSecure,P008,Smartwatch,Electronics,R004,West,2023-12-18,3,674,2022,Cancelled
+ORD-0231,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-01-11,5,221,1105,Cancelled
+ORD-0232,C005,AI Systems,P005,Keyboard,Accessories,R002,South,2023-02-16,3,131,393,Shipped
+ORD-0233,C008,CyberSecure,P004,Monitor,Electronics,R004,West,2023-01-28,3,317,951,Cancelled
+ORD-0233,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-01-28,4,321,1284,Cancelled
+ORD-0234,C008,CyberSecure,P006,Mouse,Accessories,R003,East,2023-04-01,5,1174,5870,Shipped
+ORD-0234,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-04-01,2,630,1260,Shipped
+ORD-0234,C008,CyberSecure,P003,Tablet,Electronics,R003,East,2023-04-01,5,697,3485,Shipped
+ORD-0235,C007,NextGen Consulting,P006,Mouse,Accessories,R003,East,2023-04-30,2,871,1742,Pending
+ORD-0236,C002,InnovaSolutions,P004,Monitor,Electronics,R002,South,2023-08-29,4,150,600,Delivered
+ORD-0236,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-08-29,2,561,1122,Delivered
+ORD-0236,C002,InnovaSolutions,P002,Smartphone,Electronics,R002,South,2023-08-29,4,773,3092,Delivered
+ORD-0237,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-11-10,1,1491,1491,Shipped
+ORD-0238,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-06-13,2,1144,2288,Cancelled
+ORD-0239,C005,AI Systems,P004,Monitor,Electronics,R004,West,2023-07-30,3,1447,4341,Delivered
+ORD-0239,C005,AI Systems,P001,Laptop,Electronics,R004,West,2023-07-30,3,338,1014,Delivered
+ORD-0240,C003,DataWorks,P005,Keyboard,Accessories,R002,South,2023-12-01,2,1356,2712,Shipped
+ORD-0241,C008,CyberSecure,P001,Laptop,Electronics,R001,North,2023-12-19,5,566,2830,Pending
+ORD-0241,C008,CyberSecure,P008,Smartwatch,Electronics,R001,North,2023-12-19,1,1379,1379,Pending
+ORD-0242,C008,CyberSecure,P004,Monitor,Electronics,R004,West,2023-07-01,4,655,2620,Delivered
+ORD-0242,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-07-01,2,1380,2760,Delivered
+ORD-0242,C008,CyberSecure,P007,Headphones,Accessories,R004,West,2023-07-01,4,589,2356,Delivered
+ORD-0243,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-05-18,4,220,880,Shipped
+ORD-0243,C002,InnovaSolutions,P006,Mouse,Accessories,R002,South,2023-05-18,5,715,3575,Shipped
+ORD-0244,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-05-20,2,1067,2134,Delivered
+ORD-0245,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-09-06,5,754,3770,Cancelled
+ORD-0246,C006,GreenTech,P006,Mouse,Accessories,R004,West,2023-04-27,3,1180,3540,Shipped
+ORD-0246,C006,GreenTech,P007,Headphones,Accessories,R004,West,2023-04-27,2,571,1142,Shipped
+ORD-0246,C006,GreenTech,P002,Smartphone,Electronics,R004,West,2023-04-27,2,417,834,Shipped
+ORD-0247,C005,AI Systems,P001,Laptop,Electronics,R003,East,2023-01-21,1,1089,1089,Shipped
+ORD-0248,C006,GreenTech,P005,Keyboard,Accessories,R003,East,2023-08-11,1,886,886,Cancelled
+ORD-0248,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-08-11,2,617,1234,Cancelled
+ORD-0249,C006,GreenTech,P001,Laptop,Electronics,R004,West,2023-08-18,5,1107,5535,Delivered
+ORD-0250,C002,InnovaSolutions,P006,Mouse,Accessories,R004,West,2023-06-26,1,1050,1050,Delivered
+ORD-0250,C002,InnovaSolutions,P005,Keyboard,Accessories,R004,West,2023-06-26,1,1469,1469,Delivered
+ORD-0251,C001,TechCorp,P002,Smartphone,Electronics,R002,South,2023-06-04,3,1066,3198,Cancelled
+ORD-0251,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-06-04,4,695,2780,Cancelled
+ORD-0251,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-06-04,2,324,648,Cancelled
+ORD-0252,C001,TechCorp,P008,Smartwatch,Electronics,R004,West,2023-08-18,2,903,1806,Delivered
+ORD-0252,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-08-18,3,50,150,Delivered
+ORD-0253,C004,CloudNet,P007,Headphones,Accessories,R001,North,2023-12-06,2,1373,2746,Pending
+ORD-0253,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-12-06,4,551,2204,Pending
+ORD-0254,C005,AI Systems,P002,Smartphone,Electronics,R004,West,2023-10-30,4,74,296,Shipped
+ORD-0255,C007,NextGen Consulting,P007,Headphones,Accessories,R003,East,2023-02-06,1,803,803,Shipped
+ORD-0255,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-02-06,1,1133,1133,Shipped
+ORD-0256,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-12-04,3,1432,4296,Cancelled
+ORD-0256,C003,DataWorks,P001,Laptop,Electronics,R002,South,2023-12-04,5,1338,6690,Cancelled
+ORD-0256,C003,DataWorks,P005,Keyboard,Accessories,R002,South,2023-12-04,2,724,1448,Cancelled
+ORD-0257,C002,InnovaSolutions,P006,Mouse,Accessories,R004,West,2023-05-10,2,927,1854,Delivered
+ORD-0257,C002,InnovaSolutions,P002,Smartphone,Electronics,R004,West,2023-05-10,1,130,130,Delivered
+ORD-0257,C002,InnovaSolutions,P008,Smartwatch,Electronics,R004,West,2023-05-10,3,1240,3720,Delivered
+ORD-0258,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-05-27,5,1313,6565,Cancelled
+ORD-0259,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-03-15,2,899,1798,Delivered
+ORD-0259,C001,TechCorp,P007,Headphones,Accessories,R002,South,2023-03-15,4,868,3472,Delivered
+ORD-0259,C001,TechCorp,P004,Monitor,Electronics,R002,South,2023-03-15,4,864,3456,Delivered
+ORD-0260,C001,TechCorp,P001,Laptop,Electronics,R004,West,2023-09-12,2,1370,2740,Cancelled
+ORD-0260,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-09-12,2,889,1778,Cancelled
+ORD-0261,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-11-06,1,801,801,Shipped
+ORD-0262,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-07-03,4,684,2736,Pending
+ORD-0263,C006,GreenTech,P003,Tablet,Electronics,R001,North,2023-02-05,1,1357,1357,Delivered
+ORD-0263,C006,GreenTech,P002,Smartphone,Electronics,R001,North,2023-02-05,2,1457,2914,Delivered
+ORD-0263,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-02-05,2,525,1050,Delivered
+ORD-0264,C007,NextGen Consulting,P008,Smartwatch,Electronics,R002,South,2023-10-21,4,878,3512,Delivered
+ORD-0264,C007,NextGen Consulting,P006,Mouse,Accessories,R002,South,2023-10-21,1,1208,1208,Delivered
+ORD-0264,C007,NextGen Consulting,P001,Laptop,Electronics,R002,South,2023-10-21,2,1121,2242,Delivered
+ORD-0265,C003,DataWorks,P002,Smartphone,Electronics,R002,South,2023-09-27,2,599,1198,Pending
+ORD-0266,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-04-17,2,255,510,Cancelled
+ORD-0267,C007,NextGen Consulting,P008,Smartwatch,Electronics,R004,West,2023-10-25,2,1319,2638,Delivered
+ORD-0268,C006,GreenTech,P001,Laptop,Electronics,R001,North,2023-02-24,5,1125,5625,Pending
+ORD-0269,C006,GreenTech,P001,Laptop,Electronics,R003,East,2023-08-29,2,1096,2192,Pending
+ORD-0269,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-08-29,5,1391,6955,Pending
+ORD-0269,C006,GreenTech,P005,Keyboard,Accessories,R003,East,2023-08-29,3,751,2253,Pending
+ORD-0270,C006,GreenTech,P001,Laptop,Electronics,R004,West,2023-01-05,4,1328,5312,Shipped
+ORD-0270,C006,GreenTech,P004,Monitor,Electronics,R004,West,2023-01-05,1,800,800,Shipped
+ORD-0270,C006,GreenTech,P002,Smartphone,Electronics,R004,West,2023-01-05,3,917,2751,Shipped
+ORD-0271,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-02-09,5,1232,6160,Cancelled
+ORD-0272,C002,InnovaSolutions,P007,Headphones,Accessories,R004,West,2023-02-18,4,324,1296,Shipped
+ORD-0272,C002,InnovaSolutions,P003,Tablet,Electronics,R004,West,2023-02-18,5,130,650,Shipped
+ORD-0272,C002,InnovaSolutions,P005,Keyboard,Accessories,R004,West,2023-02-18,4,1330,5320,Shipped
+ORD-0273,C005,AI Systems,P006,Mouse,Accessories,R004,West,2023-06-30,3,544,1632,Shipped
+ORD-0273,C005,AI Systems,P003,Tablet,Electronics,R004,West,2023-06-30,4,1201,4804,Shipped
+ORD-0273,C005,AI Systems,P001,Laptop,Electronics,R004,West,2023-06-30,1,1489,1489,Shipped
+ORD-0274,C007,NextGen Consulting,P002,Smartphone,Electronics,R001,North,2023-10-17,2,272,544,Delivered
+ORD-0274,C007,NextGen Consulting,P007,Headphones,Accessories,R001,North,2023-10-17,3,1401,4203,Delivered
+ORD-0274,C007,NextGen Consulting,P001,Laptop,Electronics,R001,North,2023-10-17,2,545,1090,Delivered
+ORD-0275,C001,TechCorp,P004,Monitor,Electronics,R002,South,2023-07-28,5,1390,6950,Pending
+ORD-0275,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-07-28,2,835,1670,Pending
+ORD-0276,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-06-02,1,934,934,Pending
+ORD-0276,C008,CyberSecure,P006,Mouse,Accessories,R004,West,2023-06-02,2,858,1716,Pending
+ORD-0277,C008,CyberSecure,P002,Smartphone,Electronics,R003,East,2023-03-16,5,90,450,Delivered
+ORD-0277,C008,CyberSecure,P008,Smartwatch,Electronics,R003,East,2023-03-16,1,674,674,Delivered
+ORD-0278,C007,NextGen Consulting,P004,Monitor,Electronics,R003,East,2023-06-02,5,994,4970,Pending
+ORD-0279,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-10-03,4,551,2204,Delivered
+ORD-0280,C001,TechCorp,P004,Monitor,Electronics,R002,South,2023-06-09,4,50,200,Delivered
+ORD-0280,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-06-09,5,1111,5555,Delivered
+ORD-0280,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-06-09,5,1376,6880,Delivered
+ORD-0281,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-03-06,3,573,1719,Pending
+ORD-0281,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-03-06,1,1309,1309,Pending
+ORD-0282,C007,NextGen Consulting,P006,Mouse,Accessories,R002,South,2023-07-09,3,1166,3498,Shipped
+ORD-0282,C007,NextGen Consulting,P002,Smartphone,Electronics,R002,South,2023-07-09,1,685,685,Shipped
+ORD-0283,C008,CyberSecure,P003,Tablet,Electronics,R003,East,2023-06-05,2,773,1546,Shipped
+ORD-0283,C008,CyberSecure,P005,Keyboard,Accessories,R003,East,2023-06-05,4,325,1300,Shipped
+ORD-0284,C001,TechCorp,P003,Tablet,Electronics,R003,East,2023-05-17,1,439,439,Pending
+ORD-0284,C001,TechCorp,P006,Mouse,Accessories,R003,East,2023-05-17,4,263,1052,Pending
+ORD-0284,C001,TechCorp,P001,Laptop,Electronics,R003,East,2023-05-17,4,1270,5080,Pending
+ORD-0285,C004,CloudNet,P001,Laptop,Electronics,R002,South,2023-05-02,2,280,560,Pending
+ORD-0286,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-12-12,3,1448,4344,Cancelled
+ORD-0287,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-03-14,4,1328,5312,Shipped
+ORD-0288,C002,InnovaSolutions,P006,Mouse,Accessories,R002,South,2023-01-12,1,102,102,Pending
+ORD-0288,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-01-12,2,536,1072,Pending
+ORD-0289,C008,CyberSecure,P007,Headphones,Accessories,R003,East,2023-11-29,2,1291,2582,Pending
+ORD-0289,C008,CyberSecure,P005,Keyboard,Accessories,R003,East,2023-11-29,3,101,303,Pending
+ORD-0290,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-11-17,5,1114,5570,Cancelled
+ORD-0291,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-03-14,3,83,249,Delivered
+ORD-0291,C006,GreenTech,P006,Mouse,Accessories,R001,North,2023-03-14,1,997,997,Delivered
+ORD-0291,C006,GreenTech,P001,Laptop,Electronics,R001,North,2023-03-14,5,270,1350,Delivered
+ORD-0292,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-11-19,2,1146,2292,Pending
+ORD-0292,C005,AI Systems,P005,Keyboard,Accessories,R001,North,2023-11-19,3,527,1581,Pending
+ORD-0293,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-11-28,4,1403,5612,Pending
+ORD-0293,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-11-28,5,572,2860,Pending
+ORD-0294,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-02-25,3,191,573,Cancelled
+ORD-0295,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-07-02,3,1439,4317,Delivered
+ORD-0295,C005,AI Systems,P007,Headphones,Accessories,R002,South,2023-07-02,3,1221,3663,Delivered
+ORD-0295,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-07-02,3,1353,4059,Delivered
+ORD-0296,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-09-30,4,1221,4884,Pending
+ORD-0296,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-09-30,2,363,726,Pending
+ORD-0296,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-09-30,2,1158,2316,Pending
+ORD-0297,C007,NextGen Consulting,P002,Smartphone,Electronics,R002,South,2023-12-08,1,702,702,Delivered
+ORD-0298,C005,AI Systems,P007,Headphones,Accessories,R002,South,2023-06-25,4,1042,4168,Shipped
+ORD-0298,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-06-25,5,1084,5420,Shipped
+ORD-0299,C002,InnovaSolutions,P008,Smartwatch,Electronics,R004,West,2023-03-04,5,367,1835,Shipped
+ORD-0299,C002,InnovaSolutions,P001,Laptop,Electronics,R004,West,2023-03-04,5,546,2730,Shipped
+ORD-0299,C002,InnovaSolutions,P004,Monitor,Electronics,R004,West,2023-03-04,2,686,1372,Shipped
+ORD-0300,C002,InnovaSolutions,P003,Tablet,Electronics,R003,East,2023-07-04,3,973,2919,Delivered
+ORD-0300,C002,InnovaSolutions,P005,Keyboard,Accessories,R003,East,2023-07-04,2,697,1394,Delivered
+ORD-0301,C007,NextGen Consulting,P006,Mouse,Accessories,R001,North,2023-04-28,3,986,2958,Delivered
+ORD-0301,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-04-28,1,412,412,Delivered
+ORD-0302,C007,NextGen Consulting,P004,Monitor,Electronics,R002,South,2023-06-10,2,159,318,Pending
+ORD-0302,C007,NextGen Consulting,P007,Headphones,Accessories,R002,South,2023-06-10,2,663,1326,Pending
+ORD-0302,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-06-10,1,729,729,Pending
+ORD-0303,C005,AI Systems,P004,Monitor,Electronics,R001,North,2023-09-30,5,1144,5720,Cancelled
+ORD-0303,C005,AI Systems,P006,Mouse,Accessories,R001,North,2023-09-30,4,406,1624,Cancelled
+ORD-0304,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-03-18,1,1039,1039,Shipped
+ORD-0304,C001,TechCorp,P007,Headphones,Accessories,R002,South,2023-03-18,2,587,1174,Shipped
+ORD-0304,C001,TechCorp,P004,Monitor,Electronics,R002,South,2023-03-18,4,912,3648,Shipped
+ORD-0305,C004,CloudNet,P005,Keyboard,Accessories,R001,North,2023-07-10,3,155,465,Pending
+ORD-0306,C003,DataWorks,P001,Laptop,Electronics,R002,South,2023-10-27,2,1185,2370,Cancelled
+ORD-0306,C003,DataWorks,P004,Monitor,Electronics,R002,South,2023-10-27,2,343,686,Cancelled
+ORD-0306,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-10-27,4,95,380,Cancelled
+ORD-0307,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-04-08,5,961,4805,Cancelled
+ORD-0307,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-04-08,1,1471,1471,Cancelled
+ORD-0308,C003,DataWorks,P004,Monitor,Electronics,R002,South,2023-01-15,5,439,2195,Shipped
+ORD-0308,C003,DataWorks,P006,Mouse,Accessories,R002,South,2023-01-15,2,431,862,Shipped
+ORD-0309,C005,AI Systems,P005,Keyboard,Accessories,R002,South,2023-08-14,5,1229,6145,Cancelled
+ORD-0310,C007,NextGen Consulting,P005,Keyboard,Accessories,R002,South,2023-07-21,5,109,545,Shipped
+ORD-0311,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-10-30,2,569,1138,Pending
+ORD-0311,C007,NextGen Consulting,P001,Laptop,Electronics,R002,South,2023-10-30,3,1460,4380,Pending
+ORD-0312,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-11-26,1,372,372,Cancelled
+ORD-0313,C008,CyberSecure,P004,Monitor,Electronics,R001,North,2023-07-25,5,1402,7010,Delivered
+ORD-0313,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-07-25,3,823,2469,Delivered
+ORD-0313,C008,CyberSecure,P007,Headphones,Accessories,R001,North,2023-07-25,4,242,968,Delivered
+ORD-0314,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-12-10,3,254,762,Shipped
+ORD-0314,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-12-10,5,963,4815,Shipped
+ORD-0315,C003,DataWorks,P006,Mouse,Accessories,R003,East,2023-05-16,4,685,2740,Pending
+ORD-0315,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-05-16,5,176,880,Pending
+ORD-0316,C007,NextGen Consulting,P003,Tablet,Electronics,R003,East,2023-05-30,3,382,1146,Delivered
+ORD-0316,C007,NextGen Consulting,P006,Mouse,Accessories,R003,East,2023-05-30,1,1265,1265,Delivered
+ORD-0317,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-02-12,3,545,1635,Shipped
+ORD-0317,C001,TechCorp,P005,Keyboard,Accessories,R001,North,2023-02-12,4,585,2340,Shipped
+ORD-0318,C004,CloudNet,P004,Monitor,Electronics,R004,West,2023-03-02,3,1494,4482,Shipped
+ORD-0319,C004,CloudNet,P001,Laptop,Electronics,R003,East,2023-02-22,1,72,72,Cancelled
+ORD-0319,C004,CloudNet,P003,Tablet,Electronics,R003,East,2023-02-22,3,785,2355,Cancelled
+ORD-0320,C002,InnovaSolutions,P003,Tablet,Electronics,R001,North,2023-12-19,2,946,1892,Delivered
+ORD-0320,C002,InnovaSolutions,P004,Monitor,Electronics,R001,North,2023-12-19,3,906,2718,Delivered
+ORD-0320,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-12-19,3,857,2571,Delivered
+ORD-0321,C008,CyberSecure,P003,Tablet,Electronics,R003,East,2023-05-17,3,1469,4407,Shipped
+ORD-0321,C008,CyberSecure,P004,Monitor,Electronics,R003,East,2023-05-17,3,949,2847,Shipped
+ORD-0321,C008,CyberSecure,P001,Laptop,Electronics,R003,East,2023-05-17,3,152,456,Shipped
+ORD-0322,C007,NextGen Consulting,P002,Smartphone,Electronics,R001,North,2023-08-06,2,1494,2988,Pending
+ORD-0322,C007,NextGen Consulting,P007,Headphones,Accessories,R001,North,2023-08-06,5,1246,6230,Pending
+ORD-0322,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-08-06,3,1415,4245,Pending
+ORD-0323,C005,AI Systems,P006,Mouse,Accessories,R001,North,2023-06-11,1,332,332,Delivered
+ORD-0323,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-06-11,1,408,408,Delivered
+ORD-0324,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-02-05,5,1375,6875,Shipped
+ORD-0325,C005,AI Systems,P007,Headphones,Accessories,R003,East,2023-03-22,4,1384,5536,Cancelled
+ORD-0326,C004,CloudNet,P004,Monitor,Electronics,R002,South,2023-01-12,1,508,508,Delivered
+ORD-0327,C004,CloudNet,P008,Smartwatch,Electronics,R004,West,2023-04-28,5,824,4120,Delivered
+ORD-0327,C004,CloudNet,P005,Keyboard,Accessories,R004,West,2023-04-28,3,136,408,Delivered
+ORD-0327,C004,CloudNet,P006,Mouse,Accessories,R004,West,2023-04-28,3,642,1926,Delivered
+ORD-0328,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-12-30,2,1173,2346,Pending
+ORD-0328,C005,AI Systems,P001,Laptop,Electronics,R002,South,2023-12-30,4,1369,5476,Pending
+ORD-0328,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-12-30,2,147,294,Pending
+ORD-0329,C003,DataWorks,P007,Headphones,Accessories,R001,North,2023-04-30,3,1264,3792,Delivered
+ORD-0330,C007,NextGen Consulting,P004,Monitor,Electronics,R001,North,2023-04-26,2,816,1632,Delivered
+ORD-0330,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-04-26,3,394,1182,Delivered
+ORD-0330,C007,NextGen Consulting,P007,Headphones,Accessories,R001,North,2023-04-26,2,1460,2920,Delivered
+ORD-0331,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-12-17,2,873,1746,Delivered
+ORD-0331,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-12-17,2,783,1566,Delivered
+ORD-0331,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-12-17,5,1106,5530,Delivered
+ORD-0332,C005,AI Systems,P008,Smartwatch,Electronics,R004,West,2023-01-22,5,540,2700,Delivered
+ORD-0332,C005,AI Systems,P003,Tablet,Electronics,R004,West,2023-01-22,3,373,1119,Delivered
+ORD-0333,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-06-20,5,393,1965,Pending
+ORD-0333,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-06-20,4,780,3120,Pending
+ORD-0334,C004,CloudNet,P005,Keyboard,Accessories,R004,West,2023-12-14,5,1377,6885,Delivered
+ORD-0335,C006,GreenTech,P003,Tablet,Electronics,R001,North,2023-03-18,5,1270,6350,Delivered
+ORD-0335,C006,GreenTech,P007,Headphones,Accessories,R001,North,2023-03-18,4,248,992,Delivered
+ORD-0335,C006,GreenTech,P001,Laptop,Electronics,R001,North,2023-03-18,2,1105,2210,Delivered
+ORD-0336,C007,NextGen Consulting,P005,Keyboard,Accessories,R003,East,2023-10-19,4,650,2600,Delivered
+ORD-0336,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-10-19,4,1050,4200,Delivered
+ORD-0337,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-01-21,5,1221,6105,Shipped
+ORD-0338,C007,NextGen Consulting,P005,Keyboard,Accessories,R002,South,2023-08-15,3,1004,3012,Cancelled
+ORD-0338,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-08-15,1,352,352,Cancelled
+ORD-0339,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-07-30,2,731,1462,Pending
+ORD-0339,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-07-30,5,309,1545,Pending
+ORD-0339,C002,InnovaSolutions,P004,Monitor,Electronics,R002,South,2023-07-30,1,104,104,Pending
+ORD-0340,C008,CyberSecure,P005,Keyboard,Accessories,R002,South,2023-10-18,3,231,693,Delivered
+ORD-0340,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-10-18,3,429,1287,Delivered
+ORD-0340,C008,CyberSecure,P008,Smartwatch,Electronics,R002,South,2023-10-18,3,449,1347,Delivered
+ORD-0341,C002,InnovaSolutions,P003,Tablet,Electronics,R004,West,2023-12-09,5,78,390,Shipped
+ORD-0341,C002,InnovaSolutions,P004,Monitor,Electronics,R004,West,2023-12-09,3,1442,4326,Shipped
+ORD-0341,C002,InnovaSolutions,P008,Smartwatch,Electronics,R004,West,2023-12-09,2,920,1840,Shipped
+ORD-0342,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-08-31,4,1120,4480,Delivered
+ORD-0343,C001,TechCorp,P008,Smartwatch,Electronics,R004,West,2023-07-04,2,428,856,Pending
+ORD-0343,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-07-04,2,640,1280,Pending
+ORD-0343,C001,TechCorp,P001,Laptop,Electronics,R004,West,2023-07-04,3,239,717,Pending
+ORD-0344,C006,GreenTech,P006,Mouse,Accessories,R004,West,2023-11-07,1,162,162,Shipped
+ORD-0345,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-03-17,2,93,186,Shipped
+ORD-0346,C008,CyberSecure,P002,Smartphone,Electronics,R004,West,2023-08-24,1,1496,1496,Cancelled
+ORD-0347,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-12-27,3,243,729,Pending
+ORD-0347,C004,CloudNet,P004,Monitor,Electronics,R002,South,2023-12-27,2,1283,2566,Pending
+ORD-0348,C004,CloudNet,P007,Headphones,Accessories,R003,East,2023-03-17,3,489,1467,Pending
+ORD-0349,C008,CyberSecure,P002,Smartphone,Electronics,R001,North,2023-07-26,4,536,2144,Pending
+ORD-0349,C008,CyberSecure,P003,Tablet,Electronics,R001,North,2023-07-26,4,631,2524,Pending
+ORD-0350,C001,TechCorp,P001,Laptop,Electronics,R003,East,2023-03-13,4,845,3380,Pending
+ORD-0350,C001,TechCorp,P003,Tablet,Electronics,R003,East,2023-03-13,5,629,3145,Pending
+ORD-0350,C001,TechCorp,P005,Keyboard,Accessories,R003,East,2023-03-13,1,537,537,Pending
+ORD-0351,C003,DataWorks,P006,Mouse,Accessories,R002,South,2023-09-15,3,129,387,Shipped
+ORD-0351,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-09-15,2,926,1852,Shipped
+ORD-0352,C002,InnovaSolutions,P002,Smartphone,Electronics,R003,East,2023-12-13,1,1281,1281,Shipped
+ORD-0352,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-12-13,4,181,724,Shipped
+ORD-0353,C006,GreenTech,P001,Laptop,Electronics,R002,South,2023-03-11,1,387,387,Delivered
+ORD-0353,C006,GreenTech,P004,Monitor,Electronics,R002,South,2023-03-11,3,382,1146,Delivered
+ORD-0353,C006,GreenTech,P007,Headphones,Accessories,R002,South,2023-03-11,3,220,660,Delivered
+ORD-0354,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-04-01,4,979,3916,Delivered
+ORD-0354,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-04-01,4,661,2644,Delivered
+ORD-0355,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-12-10,4,722,2888,Delivered
+ORD-0355,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-12-10,3,677,2031,Delivered
+ORD-0356,C007,NextGen Consulting,P006,Mouse,Accessories,R003,East,2023-01-09,1,963,963,Shipped
+ORD-0356,C007,NextGen Consulting,P008,Smartwatch,Electronics,R003,East,2023-01-09,3,675,2025,Shipped
+ORD-0356,C007,NextGen Consulting,P001,Laptop,Electronics,R003,East,2023-01-09,3,198,594,Shipped
+ORD-0357,C002,InnovaSolutions,P004,Monitor,Electronics,R002,South,2023-12-06,2,818,1636,Shipped
+ORD-0357,C002,InnovaSolutions,P008,Smartwatch,Electronics,R002,South,2023-12-06,5,779,3895,Shipped
+ORD-0357,C002,InnovaSolutions,P007,Headphones,Accessories,R002,South,2023-12-06,4,1156,4624,Shipped
+ORD-0358,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-10-19,5,720,3600,Pending
+ORD-0359,C007,NextGen Consulting,P003,Tablet,Electronics,R003,East,2023-06-08,3,491,1473,Cancelled
+ORD-0360,C005,AI Systems,P006,Mouse,Accessories,R001,North,2023-08-16,1,1048,1048,Cancelled
+ORD-0360,C005,AI Systems,P007,Headphones,Accessories,R001,North,2023-08-16,4,1062,4248,Cancelled
+ORD-0360,C005,AI Systems,P002,Smartphone,Electronics,R001,North,2023-08-16,1,831,831,Cancelled
+ORD-0361,C005,AI Systems,P003,Tablet,Electronics,R002,South,2023-06-15,3,1035,3105,Cancelled
+ORD-0361,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-06-15,2,779,1558,Cancelled
+ORD-0362,C002,InnovaSolutions,P008,Smartwatch,Electronics,R001,North,2023-12-24,5,744,3720,Shipped
+ORD-0362,C002,InnovaSolutions,P001,Laptop,Electronics,R001,North,2023-12-24,5,700,3500,Shipped
+ORD-0363,C004,CloudNet,P002,Smartphone,Electronics,R003,East,2023-09-10,1,736,736,Cancelled
+ORD-0363,C004,CloudNet,P001,Laptop,Electronics,R003,East,2023-09-10,4,125,500,Cancelled
+ORD-0363,C004,CloudNet,P006,Mouse,Accessories,R003,East,2023-09-10,4,1383,5532,Cancelled
+ORD-0364,C006,GreenTech,P005,Keyboard,Accessories,R003,East,2023-11-05,3,1141,3423,Pending
+ORD-0364,C006,GreenTech,P001,Laptop,Electronics,R003,East,2023-11-05,3,689,2067,Pending
+ORD-0365,C004,CloudNet,P005,Keyboard,Accessories,R004,West,2023-11-10,1,538,538,Cancelled
+ORD-0365,C004,CloudNet,P006,Mouse,Accessories,R004,West,2023-11-10,5,952,4760,Cancelled
+ORD-0365,C004,CloudNet,P003,Tablet,Electronics,R004,West,2023-11-10,4,603,2412,Cancelled
+ORD-0366,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-02-02,2,1489,2978,Pending
+ORD-0366,C006,GreenTech,P005,Keyboard,Accessories,R001,North,2023-02-02,4,1421,5684,Pending
+ORD-0367,C007,NextGen Consulting,P004,Monitor,Electronics,R004,West,2023-01-28,3,739,2217,Delivered
+ORD-0368,C002,InnovaSolutions,P006,Mouse,Accessories,R001,North,2023-04-15,1,763,763,Delivered
+ORD-0369,C004,CloudNet,P006,Mouse,Accessories,R001,North,2023-06-08,2,1286,2572,Cancelled
+ORD-0369,C004,CloudNet,P007,Headphones,Accessories,R001,North,2023-06-08,1,774,774,Cancelled
+ORD-0370,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-09-04,3,801,2403,Shipped
+ORD-0370,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-09-04,4,1264,5056,Shipped
+ORD-0370,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-09-04,3,692,2076,Shipped
+ORD-0371,C005,AI Systems,P002,Smartphone,Electronics,R004,West,2023-02-14,3,562,1686,Pending
+ORD-0372,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-09-21,5,381,1905,Cancelled
+ORD-0372,C005,AI Systems,P005,Keyboard,Accessories,R002,South,2023-09-21,1,504,504,Cancelled
+ORD-0373,C005,AI Systems,P007,Headphones,Accessories,R003,East,2023-08-04,5,551,2755,Pending
+ORD-0373,C005,AI Systems,P006,Mouse,Accessories,R003,East,2023-08-04,4,718,2872,Pending
+ORD-0373,C005,AI Systems,P008,Smartwatch,Electronics,R003,East,2023-08-04,5,110,550,Pending
+ORD-0374,C004,CloudNet,P005,Keyboard,Accessories,R004,West,2023-03-06,4,668,2672,Pending
+ORD-0374,C004,CloudNet,P007,Headphones,Accessories,R004,West,2023-03-06,5,1106,5530,Pending
+ORD-0375,C005,AI Systems,P007,Headphones,Accessories,R001,North,2023-11-09,2,265,530,Delivered
+ORD-0375,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-11-09,2,365,730,Delivered
+ORD-0376,C001,TechCorp,P006,Mouse,Accessories,R004,West,2023-05-19,4,781,3124,Cancelled
+ORD-0376,C001,TechCorp,P003,Tablet,Electronics,R004,West,2023-05-19,4,1339,5356,Cancelled
+ORD-0376,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-05-19,1,1235,1235,Cancelled
+ORD-0377,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-05-08,4,1414,5656,Pending
+ORD-0377,C003,DataWorks,P004,Monitor,Electronics,R003,East,2023-05-08,5,1318,6590,Pending
+ORD-0377,C003,DataWorks,P001,Laptop,Electronics,R003,East,2023-05-08,3,1395,4185,Pending
+ORD-0378,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-02-22,1,1314,1314,Pending
+ORD-0378,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-02-22,3,243,729,Pending
+ORD-0378,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-02-22,3,602,1806,Pending
+ORD-0379,C003,DataWorks,P003,Tablet,Electronics,R002,South,2023-02-04,3,940,2820,Delivered
+ORD-0379,C003,DataWorks,P002,Smartphone,Electronics,R002,South,2023-02-04,3,142,426,Delivered
+ORD-0379,C003,DataWorks,P001,Laptop,Electronics,R002,South,2023-02-04,3,1079,3237,Delivered
+ORD-0380,C008,CyberSecure,P001,Laptop,Electronics,R004,West,2023-02-09,1,480,480,Shipped
+ORD-0380,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-02-09,5,777,3885,Shipped
+ORD-0381,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-06-01,4,547,2188,Delivered
+ORD-0381,C002,InnovaSolutions,P005,Keyboard,Accessories,R003,East,2023-06-01,4,386,1544,Delivered
+ORD-0382,C001,TechCorp,P002,Smartphone,Electronics,R001,North,2023-12-22,4,1158,4632,Shipped
+ORD-0382,C001,TechCorp,P001,Laptop,Electronics,R001,North,2023-12-22,5,1333,6665,Shipped
+ORD-0382,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-12-22,5,398,1990,Shipped
+ORD-0383,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-05-27,5,874,4370,Shipped
+ORD-0383,C003,DataWorks,P007,Headphones,Accessories,R003,East,2023-05-27,2,1024,2048,Shipped
+ORD-0383,C003,DataWorks,P004,Monitor,Electronics,R003,East,2023-05-27,1,753,753,Shipped
+ORD-0384,C003,DataWorks,P008,Smartwatch,Electronics,R004,West,2023-09-06,4,1062,4248,Pending
+ORD-0384,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-09-06,5,612,3060,Pending
+ORD-0384,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-09-06,5,305,1525,Pending
+ORD-0385,C007,NextGen Consulting,P002,Smartphone,Electronics,R001,North,2023-06-17,2,999,1998,Pending
+ORD-0385,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-06-17,1,688,688,Pending
+ORD-0386,C002,InnovaSolutions,P006,Mouse,Accessories,R003,East,2023-08-27,2,577,1154,Delivered
+ORD-0386,C002,InnovaSolutions,P007,Headphones,Accessories,R003,East,2023-08-27,5,1466,7330,Delivered
+ORD-0386,C002,InnovaSolutions,P008,Smartwatch,Electronics,R003,East,2023-08-27,3,1468,4404,Delivered
+ORD-0387,C002,InnovaSolutions,P002,Smartphone,Electronics,R003,East,2023-02-24,3,1008,3024,Cancelled
+ORD-0388,C007,NextGen Consulting,P005,Keyboard,Accessories,R001,North,2023-09-08,2,1490,2980,Cancelled
+ORD-0389,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-12-20,1,1478,1478,Pending
+ORD-0390,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-08-21,2,334,668,Delivered
+ORD-0390,C006,GreenTech,P001,Laptop,Electronics,R001,North,2023-08-21,5,769,3845,Delivered
+ORD-0391,C004,CloudNet,P007,Headphones,Accessories,R004,West,2023-07-12,5,866,4330,Pending
+ORD-0392,C006,GreenTech,P003,Tablet,Electronics,R001,North,2023-08-29,5,1116,5580,Cancelled
+ORD-0392,C006,GreenTech,P007,Headphones,Accessories,R001,North,2023-08-29,1,241,241,Cancelled
+ORD-0393,C001,TechCorp,P004,Monitor,Electronics,R003,East,2023-11-24,2,1425,2850,Cancelled
+ORD-0393,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-11-24,3,357,1071,Cancelled
+ORD-0393,C001,TechCorp,P005,Keyboard,Accessories,R003,East,2023-11-24,1,491,491,Cancelled
+ORD-0394,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-07-28,3,1156,3468,Delivered
+ORD-0395,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-09-12,1,481,481,Shipped
+ORD-0396,C003,DataWorks,P001,Laptop,Electronics,R003,East,2023-08-07,1,1189,1189,Delivered
+ORD-0396,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-08-07,5,99,495,Delivered
+ORD-0396,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-08-07,4,1460,5840,Delivered
+ORD-0397,C004,CloudNet,P008,Smartwatch,Electronics,R003,East,2023-11-19,3,160,480,Shipped
+ORD-0397,C004,CloudNet,P005,Keyboard,Accessories,R003,East,2023-11-19,1,378,378,Shipped
+ORD-0397,C004,CloudNet,P002,Smartphone,Electronics,R003,East,2023-11-19,2,920,1840,Shipped
+ORD-0398,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-07-29,4,1437,5748,Delivered
+ORD-0399,C004,CloudNet,P001,Laptop,Electronics,R003,East,2023-08-31,1,1044,1044,Cancelled
+ORD-0400,C004,CloudNet,P008,Smartwatch,Electronics,R002,South,2023-11-07,3,125,375,Cancelled
+ORD-0400,C004,CloudNet,P003,Tablet,Electronics,R002,South,2023-11-07,3,894,2682,Cancelled
+ORD-0400,C004,CloudNet,P006,Mouse,Accessories,R002,South,2023-11-07,2,1257,2514,Cancelled
+ORD-0401,C001,TechCorp,P008,Smartwatch,Electronics,R003,East,2023-08-31,5,255,1275,Delivered
+ORD-0401,C001,TechCorp,P001,Laptop,Electronics,R003,East,2023-08-31,1,88,88,Delivered
+ORD-0401,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-08-31,2,1188,2376,Delivered
+ORD-0402,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-05-20,2,801,1602,Shipped
+ORD-0403,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-07-27,1,1456,1456,Delivered
+ORD-0403,C006,GreenTech,P006,Mouse,Accessories,R003,East,2023-07-27,4,692,2768,Delivered
+ORD-0404,C001,TechCorp,P002,Smartphone,Electronics,R004,West,2023-04-30,5,273,1365,Pending
+ORD-0404,C001,TechCorp,P005,Keyboard,Accessories,R004,West,2023-04-30,1,1430,1430,Pending
+ORD-0405,C005,AI Systems,P005,Keyboard,Accessories,R003,East,2023-09-25,3,733,2199,Pending
+ORD-0405,C005,AI Systems,P007,Headphones,Accessories,R003,East,2023-09-25,4,974,3896,Pending
+ORD-0405,C005,AI Systems,P008,Smartwatch,Electronics,R003,East,2023-09-25,5,1273,6365,Pending
+ORD-0406,C002,InnovaSolutions,P006,Mouse,Accessories,R002,South,2023-05-09,2,745,1490,Delivered
+ORD-0406,C002,InnovaSolutions,P007,Headphones,Accessories,R002,South,2023-05-09,1,359,359,Delivered
+ORD-0406,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-05-09,5,524,2620,Delivered
+ORD-0407,C008,CyberSecure,P008,Smartwatch,Electronics,R002,South,2023-07-29,4,309,1236,Pending
+ORD-0407,C008,CyberSecure,P004,Monitor,Electronics,R002,South,2023-07-29,1,1478,1478,Pending
+ORD-0408,C004,CloudNet,P008,Smartwatch,Electronics,R002,South,2023-08-20,4,866,3464,Cancelled
+ORD-0409,C006,GreenTech,P002,Smartphone,Electronics,R001,North,2023-03-09,1,229,229,Pending
+ORD-0409,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-03-09,2,639,1278,Pending
+ORD-0409,C006,GreenTech,P006,Mouse,Accessories,R001,North,2023-03-09,4,1152,4608,Pending
+ORD-0410,C006,GreenTech,P008,Smartwatch,Electronics,R001,North,2023-08-12,3,895,2685,Shipped
+ORD-0410,C006,GreenTech,P004,Monitor,Electronics,R001,North,2023-08-12,2,124,248,Shipped
+ORD-0410,C006,GreenTech,P005,Keyboard,Accessories,R001,North,2023-08-12,4,1086,4344,Shipped
+ORD-0411,C003,DataWorks,P006,Mouse,Accessories,R003,East,2023-03-15,2,268,536,Shipped
+ORD-0411,C003,DataWorks,P004,Monitor,Electronics,R003,East,2023-03-15,1,618,618,Shipped
+ORD-0412,C006,GreenTech,P003,Tablet,Electronics,R004,West,2023-05-24,5,1061,5305,Pending
+ORD-0412,C006,GreenTech,P002,Smartphone,Electronics,R004,West,2023-05-24,1,1451,1451,Pending
+ORD-0412,C006,GreenTech,P004,Monitor,Electronics,R004,West,2023-05-24,1,1204,1204,Pending
+ORD-0413,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-02-05,1,122,122,Delivered
+ORD-0413,C008,CyberSecure,P008,Smartwatch,Electronics,R002,South,2023-02-05,4,515,2060,Delivered
+ORD-0413,C008,CyberSecure,P007,Headphones,Accessories,R002,South,2023-02-05,4,1096,4384,Delivered
+ORD-0414,C002,InnovaSolutions,P005,Keyboard,Accessories,R004,West,2023-07-11,4,327,1308,Delivered
+ORD-0414,C002,InnovaSolutions,P008,Smartwatch,Electronics,R004,West,2023-07-11,3,1043,3129,Delivered
+ORD-0414,C002,InnovaSolutions,P001,Laptop,Electronics,R004,West,2023-07-11,3,808,2424,Delivered
+ORD-0415,C005,AI Systems,P005,Keyboard,Accessories,R004,West,2023-06-29,3,1421,4263,Delivered
+ORD-0415,C005,AI Systems,P004,Monitor,Electronics,R004,West,2023-06-29,3,488,1464,Delivered
+ORD-0415,C005,AI Systems,P001,Laptop,Electronics,R004,West,2023-06-29,3,1185,3555,Delivered
+ORD-0416,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-05-30,3,134,402,Delivered
+ORD-0417,C006,GreenTech,P003,Tablet,Electronics,R003,East,2023-07-29,5,317,1585,Cancelled
+ORD-0417,C006,GreenTech,P008,Smartwatch,Electronics,R003,East,2023-07-29,4,429,1716,Cancelled
+ORD-0417,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-07-29,5,100,500,Cancelled
+ORD-0418,C007,NextGen Consulting,P002,Smartphone,Electronics,R004,West,2023-06-07,4,961,3844,Cancelled
+ORD-0419,C006,GreenTech,P007,Headphones,Accessories,R002,South,2023-11-13,5,88,440,Delivered
+ORD-0419,C006,GreenTech,P001,Laptop,Electronics,R002,South,2023-11-13,5,227,1135,Delivered
+ORD-0419,C006,GreenTech,P008,Smartwatch,Electronics,R002,South,2023-11-13,1,1188,1188,Delivered
+ORD-0420,C005,AI Systems,P007,Headphones,Accessories,R004,West,2023-03-16,4,65,260,Cancelled
+ORD-0420,C005,AI Systems,P003,Tablet,Electronics,R004,West,2023-03-16,4,205,820,Cancelled
+ORD-0421,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-08-11,2,828,1656,Shipped
+ORD-0421,C008,CyberSecure,P006,Mouse,Accessories,R002,South,2023-08-11,3,1002,3006,Shipped
+ORD-0422,C004,CloudNet,P002,Smartphone,Electronics,R004,West,2023-07-20,2,517,1034,Cancelled
+ORD-0423,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-08-31,3,1233,3699,Shipped
+ORD-0423,C001,TechCorp,P002,Smartphone,Electronics,R002,South,2023-08-31,1,1380,1380,Shipped
+ORD-0423,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-08-31,4,697,2788,Shipped
+ORD-0424,C004,CloudNet,P006,Mouse,Accessories,R003,East,2023-09-14,1,1346,1346,Delivered
+ORD-0424,C004,CloudNet,P005,Keyboard,Accessories,R003,East,2023-09-14,1,786,786,Delivered
+ORD-0425,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-05-30,4,772,3088,Cancelled
+ORD-0426,C004,CloudNet,P003,Tablet,Electronics,R002,South,2023-06-01,4,654,2616,Cancelled
+ORD-0426,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-06-01,3,264,792,Cancelled
+ORD-0427,C001,TechCorp,P005,Keyboard,Accessories,R002,South,2023-10-08,3,1105,3315,Shipped
+ORD-0427,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-10-08,4,802,3208,Shipped
+ORD-0428,C001,TechCorp,P004,Monitor,Electronics,R003,East,2023-03-20,1,597,597,Shipped
+ORD-0429,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-05-27,3,1046,3138,Cancelled
+ORD-0429,C007,NextGen Consulting,P002,Smartphone,Electronics,R001,North,2023-05-27,4,1058,4232,Cancelled
+ORD-0430,C001,TechCorp,P007,Headphones,Accessories,R001,North,2023-05-09,4,1171,4684,Pending
+ORD-0430,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-05-09,1,1140,1140,Pending
+ORD-0431,C004,CloudNet,P003,Tablet,Electronics,R003,East,2023-03-25,5,769,3845,Pending
+ORD-0431,C004,CloudNet,P004,Monitor,Electronics,R003,East,2023-03-25,1,1169,1169,Pending
+ORD-0432,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-05-08,2,1059,2118,Delivered
+ORD-0432,C001,TechCorp,P003,Tablet,Electronics,R002,South,2023-05-08,5,398,1990,Delivered
+ORD-0433,C004,CloudNet,P008,Smartwatch,Electronics,R004,West,2023-11-25,5,427,2135,Cancelled
+ORD-0433,C004,CloudNet,P001,Laptop,Electronics,R004,West,2023-11-25,3,695,2085,Cancelled
+ORD-0434,C005,AI Systems,P007,Headphones,Accessories,R001,North,2023-12-04,2,495,990,Cancelled
+ORD-0434,C005,AI Systems,P006,Mouse,Accessories,R001,North,2023-12-04,2,1243,2486,Cancelled
+ORD-0435,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-10-21,5,988,4940,Delivered
+ORD-0435,C007,NextGen Consulting,P005,Keyboard,Accessories,R003,East,2023-10-21,3,976,2928,Delivered
+ORD-0435,C007,NextGen Consulting,P003,Tablet,Electronics,R003,East,2023-10-21,2,783,1566,Delivered
+ORD-0436,C008,CyberSecure,P004,Monitor,Electronics,R004,West,2023-02-26,4,205,820,Pending
+ORD-0437,C003,DataWorks,P006,Mouse,Accessories,R001,North,2023-04-29,1,611,611,Shipped
+ORD-0438,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-10-03,5,1164,5820,Shipped
+ORD-0438,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-10-03,5,673,3365,Shipped
+ORD-0439,C003,DataWorks,P005,Keyboard,Accessories,R002,South,2023-03-04,4,1364,5456,Delivered
+ORD-0439,C003,DataWorks,P004,Monitor,Electronics,R002,South,2023-03-04,3,895,2685,Delivered
+ORD-0440,C002,InnovaSolutions,P002,Smartphone,Electronics,R004,West,2023-01-19,5,1231,6155,Delivered
+ORD-0441,C004,CloudNet,P004,Monitor,Electronics,R001,North,2023-03-24,2,614,1228,Shipped
+ORD-0441,C004,CloudNet,P006,Mouse,Accessories,R001,North,2023-03-24,3,347,1041,Shipped
+ORD-0442,C001,TechCorp,P003,Tablet,Electronics,R003,East,2023-12-12,3,312,936,Cancelled
+ORD-0443,C003,DataWorks,P007,Headphones,Accessories,R003,East,2023-12-10,1,632,632,Delivered
+ORD-0443,C003,DataWorks,P002,Smartphone,Electronics,R003,East,2023-12-10,5,1011,5055,Delivered
+ORD-0443,C003,DataWorks,P006,Mouse,Accessories,R003,East,2023-12-10,1,713,713,Delivered
+ORD-0444,C008,CyberSecure,P007,Headphones,Accessories,R002,South,2023-06-12,3,527,1581,Shipped
+ORD-0444,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-06-12,2,1294,2588,Shipped
+ORD-0445,C005,AI Systems,P001,Laptop,Electronics,R001,North,2023-08-10,3,288,864,Cancelled
+ORD-0445,C005,AI Systems,P005,Keyboard,Accessories,R001,North,2023-08-10,1,1101,1101,Cancelled
+ORD-0445,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-08-10,1,155,155,Cancelled
+ORD-0446,C004,CloudNet,P001,Laptop,Electronics,R002,South,2023-05-09,2,739,1478,Cancelled
+ORD-0446,C004,CloudNet,P007,Headphones,Accessories,R002,South,2023-05-09,3,459,1377,Cancelled
+ORD-0446,C004,CloudNet,P002,Smartphone,Electronics,R002,South,2023-05-09,4,230,920,Cancelled
+ORD-0447,C006,GreenTech,P008,Smartwatch,Electronics,R002,South,2023-06-21,4,1093,4372,Delivered
+ORD-0448,C002,InnovaSolutions,P001,Laptop,Electronics,R002,South,2023-11-13,3,642,1926,Cancelled
+ORD-0448,C002,InnovaSolutions,P004,Monitor,Electronics,R002,South,2023-11-13,5,1459,7295,Cancelled
+ORD-0448,C002,InnovaSolutions,P005,Keyboard,Accessories,R002,South,2023-11-13,5,1201,6005,Cancelled
+ORD-0449,C001,TechCorp,P007,Headphones,Accessories,R003,East,2023-02-17,1,834,834,Pending
+ORD-0449,C001,TechCorp,P008,Smartwatch,Electronics,R003,East,2023-02-17,5,795,3975,Pending
+ORD-0449,C001,TechCorp,P006,Mouse,Accessories,R003,East,2023-02-17,3,685,2055,Pending
+ORD-0450,C004,CloudNet,P007,Headphones,Accessories,R002,South,2023-11-17,1,625,625,Shipped
+ORD-0451,C002,InnovaSolutions,P001,Laptop,Electronics,R003,East,2023-06-06,4,241,964,Shipped
+ORD-0451,C002,InnovaSolutions,P005,Keyboard,Accessories,R003,East,2023-06-06,1,335,335,Shipped
+ORD-0451,C002,InnovaSolutions,P008,Smartwatch,Electronics,R003,East,2023-06-06,4,134,536,Shipped
+ORD-0452,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-02-20,2,1351,2702,Cancelled
+ORD-0452,C006,GreenTech,P003,Tablet,Electronics,R003,East,2023-02-20,5,765,3825,Cancelled
+ORD-0453,C008,CyberSecure,P004,Monitor,Electronics,R001,North,2023-03-27,2,1233,2466,Shipped
+ORD-0453,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-03-27,1,913,913,Shipped
+ORD-0453,C008,CyberSecure,P006,Mouse,Accessories,R001,North,2023-03-27,2,641,1282,Shipped
+ORD-0454,C002,InnovaSolutions,P006,Mouse,Accessories,R002,South,2023-11-08,2,388,776,Cancelled
+ORD-0454,C002,InnovaSolutions,P003,Tablet,Electronics,R002,South,2023-11-08,2,905,1810,Cancelled
+ORD-0455,C005,AI Systems,P005,Keyboard,Accessories,R001,North,2023-09-01,2,676,1352,Shipped
+ORD-0455,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-09-01,2,1135,2270,Shipped
+ORD-0455,C005,AI Systems,P008,Smartwatch,Electronics,R001,North,2023-09-01,5,951,4755,Shipped
+ORD-0456,C008,CyberSecure,P002,Smartphone,Electronics,R002,South,2023-07-03,1,279,279,Cancelled
+ORD-0456,C008,CyberSecure,P004,Monitor,Electronics,R002,South,2023-07-03,1,373,373,Cancelled
+ORD-0456,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-07-03,4,949,3796,Cancelled
+ORD-0457,C006,GreenTech,P008,Smartwatch,Electronics,R004,West,2023-02-01,5,997,4985,Delivered
+ORD-0457,C006,GreenTech,P001,Laptop,Electronics,R004,West,2023-02-01,2,420,840,Delivered
+ORD-0457,C006,GreenTech,P007,Headphones,Accessories,R004,West,2023-02-01,5,1175,5875,Delivered
+ORD-0458,C001,TechCorp,P003,Tablet,Electronics,R001,North,2023-06-24,5,720,3600,Delivered
+ORD-0458,C001,TechCorp,P008,Smartwatch,Electronics,R001,North,2023-06-24,5,746,3730,Delivered
+ORD-0458,C001,TechCorp,P007,Headphones,Accessories,R001,North,2023-06-24,2,1011,2022,Delivered
+ORD-0459,C006,GreenTech,P006,Mouse,Accessories,R001,North,2023-09-08,1,1090,1090,Cancelled
+ORD-0459,C006,GreenTech,P003,Tablet,Electronics,R001,North,2023-09-08,3,71,213,Cancelled
+ORD-0460,C002,InnovaSolutions,P005,Keyboard,Accessories,R001,North,2023-07-17,3,912,2736,Pending
+ORD-0460,C002,InnovaSolutions,P007,Headphones,Accessories,R001,North,2023-07-17,3,340,1020,Pending
+ORD-0461,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-12-08,3,319,957,Cancelled
+ORD-0461,C007,NextGen Consulting,P006,Mouse,Accessories,R002,South,2023-12-08,2,368,736,Cancelled
+ORD-0462,C006,GreenTech,P008,Smartwatch,Electronics,R003,East,2023-10-27,2,1188,2376,Cancelled
+ORD-0462,C006,GreenTech,P007,Headphones,Accessories,R003,East,2023-10-27,4,517,2068,Cancelled
+ORD-0462,C006,GreenTech,P004,Monitor,Electronics,R003,East,2023-10-27,2,977,1954,Cancelled
+ORD-0463,C007,NextGen Consulting,P008,Smartwatch,Electronics,R001,North,2023-01-22,5,1281,6405,Cancelled
+ORD-0463,C007,NextGen Consulting,P006,Mouse,Accessories,R001,North,2023-01-22,1,779,779,Cancelled
+ORD-0464,C004,CloudNet,P002,Smartphone,Electronics,R001,North,2023-01-16,1,675,675,Delivered
+ORD-0464,C004,CloudNet,P005,Keyboard,Accessories,R001,North,2023-01-16,2,669,1338,Delivered
+ORD-0465,C008,CyberSecure,P001,Laptop,Electronics,R001,North,2023-06-11,3,1135,3405,Pending
+ORD-0466,C008,CyberSecure,P003,Tablet,Electronics,R002,South,2023-04-03,2,318,636,Delivered
+ORD-0466,C008,CyberSecure,P005,Keyboard,Accessories,R002,South,2023-04-03,5,74,370,Delivered
+ORD-0467,C004,CloudNet,P003,Tablet,Electronics,R002,South,2023-07-31,1,157,157,Shipped
+ORD-0467,C004,CloudNet,P007,Headphones,Accessories,R002,South,2023-07-31,4,1462,5848,Shipped
+ORD-0467,C004,CloudNet,P008,Smartwatch,Electronics,R002,South,2023-07-31,1,808,808,Shipped
+ORD-0468,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-10-14,3,1231,3693,Pending
+ORD-0468,C007,NextGen Consulting,P006,Mouse,Accessories,R002,South,2023-10-14,5,1458,7290,Pending
+ORD-0468,C007,NextGen Consulting,P007,Headphones,Accessories,R002,South,2023-10-14,4,238,952,Pending
+ORD-0469,C005,AI Systems,P003,Tablet,Electronics,R003,East,2023-05-14,3,686,2058,Pending
+ORD-0469,C005,AI Systems,P004,Monitor,Electronics,R003,East,2023-05-14,1,1101,1101,Pending
+ORD-0470,C001,TechCorp,P006,Mouse,Accessories,R002,South,2023-06-14,3,611,1833,Pending
+ORD-0471,C003,DataWorks,P001,Laptop,Electronics,R001,North,2023-06-30,1,1462,1462,Shipped
+ORD-0471,C003,DataWorks,P007,Headphones,Accessories,R001,North,2023-06-30,5,1291,6455,Shipped
+ORD-0471,C003,DataWorks,P006,Mouse,Accessories,R001,North,2023-06-30,2,568,1136,Shipped
+ORD-0472,C007,NextGen Consulting,P003,Tablet,Electronics,R001,North,2023-05-20,5,681,3405,Cancelled
+ORD-0473,C005,AI Systems,P005,Keyboard,Accessories,R001,North,2023-12-14,5,695,3475,Cancelled
+ORD-0473,C005,AI Systems,P004,Monitor,Electronics,R001,North,2023-12-14,3,853,2559,Cancelled
+ORD-0473,C005,AI Systems,P003,Tablet,Electronics,R001,North,2023-12-14,4,230,920,Cancelled
+ORD-0474,C006,GreenTech,P006,Mouse,Accessories,R002,South,2023-09-27,3,564,1692,Cancelled
+ORD-0474,C006,GreenTech,P001,Laptop,Electronics,R002,South,2023-09-27,2,1272,2544,Cancelled
+ORD-0475,C005,AI Systems,P008,Smartwatch,Electronics,R002,South,2023-03-22,4,1304,5216,Pending
+ORD-0475,C005,AI Systems,P002,Smartphone,Electronics,R002,South,2023-03-22,4,573,2292,Pending
+ORD-0475,C005,AI Systems,P006,Mouse,Accessories,R002,South,2023-03-22,1,1314,1314,Pending
+ORD-0476,C003,DataWorks,P002,Smartphone,Electronics,R001,North,2023-03-29,4,118,472,Shipped
+ORD-0477,C007,NextGen Consulting,P003,Tablet,Electronics,R002,South,2023-07-03,3,530,1590,Pending
+ORD-0478,C001,TechCorp,P002,Smartphone,Electronics,R004,West,2023-02-10,4,830,3320,Pending
+ORD-0478,C001,TechCorp,P003,Tablet,Electronics,R004,West,2023-02-10,1,1131,1131,Pending
+ORD-0479,C003,DataWorks,P005,Keyboard,Accessories,R004,West,2023-12-01,4,350,1400,Cancelled
+ORD-0479,C003,DataWorks,P003,Tablet,Electronics,R004,West,2023-12-01,5,1104,5520,Cancelled
+ORD-0479,C003,DataWorks,P008,Smartwatch,Electronics,R004,West,2023-12-01,1,1026,1026,Cancelled
+ORD-0480,C006,GreenTech,P005,Keyboard,Accessories,R001,North,2023-03-24,1,304,304,Cancelled
+ORD-0481,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-01-21,4,633,2532,Shipped
+ORD-0481,C008,CyberSecure,P006,Mouse,Accessories,R001,North,2023-01-21,2,1184,2368,Shipped
+ORD-0482,C007,NextGen Consulting,P007,Headphones,Accessories,R003,East,2023-01-04,3,760,2280,Cancelled
+ORD-0483,C008,CyberSecure,P008,Smartwatch,Electronics,R001,North,2023-10-06,1,55,55,Shipped
+ORD-0483,C008,CyberSecure,P005,Keyboard,Accessories,R001,North,2023-10-06,3,1302,3906,Shipped
+ORD-0484,C003,DataWorks,P003,Tablet,Electronics,R004,West,2023-11-01,2,989,1978,Shipped
+ORD-0484,C003,DataWorks,P007,Headphones,Accessories,R004,West,2023-11-01,2,582,1164,Shipped
+ORD-0484,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-11-01,2,525,1050,Shipped
+ORD-0485,C005,AI Systems,P001,Laptop,Electronics,R003,East,2023-11-21,3,415,1245,Delivered
+ORD-0486,C004,CloudNet,P008,Smartwatch,Electronics,R001,North,2023-12-19,1,466,466,Cancelled
+ORD-0486,C004,CloudNet,P007,Headphones,Accessories,R001,North,2023-12-19,4,590,2360,Cancelled
+ORD-0486,C004,CloudNet,P003,Tablet,Electronics,R001,North,2023-12-19,1,383,383,Cancelled
+ORD-0487,C004,CloudNet,P006,Mouse,Accessories,R002,South,2023-04-08,3,1120,3360,Delivered
+ORD-0487,C004,CloudNet,P008,Smartwatch,Electronics,R002,South,2023-04-08,1,279,279,Delivered
+ORD-0488,C001,TechCorp,P002,Smartphone,Electronics,R002,South,2023-12-01,1,325,325,Cancelled
+ORD-0488,C001,TechCorp,P001,Laptop,Electronics,R002,South,2023-12-01,4,1455,5820,Cancelled
+ORD-0488,C001,TechCorp,P008,Smartwatch,Electronics,R002,South,2023-12-01,5,94,470,Cancelled
+ORD-0489,C008,CyberSecure,P003,Tablet,Electronics,R004,West,2023-07-30,5,289,1445,Pending
+ORD-0490,C003,DataWorks,P001,Laptop,Electronics,R004,West,2023-03-04,4,58,232,Pending
+ORD-0490,C003,DataWorks,P004,Monitor,Electronics,R004,West,2023-03-04,3,1469,4407,Pending
+ORD-0490,C003,DataWorks,P002,Smartphone,Electronics,R004,West,2023-03-04,3,903,2709,Pending
+ORD-0491,C003,DataWorks,P004,Monitor,Electronics,R003,East,2023-03-07,4,1475,5900,Shipped
+ORD-0491,C003,DataWorks,P008,Smartwatch,Electronics,R003,East,2023-03-07,5,563,2815,Shipped
+ORD-0491,C003,DataWorks,P005,Keyboard,Accessories,R003,East,2023-03-07,5,302,1510,Shipped
+ORD-0492,C006,GreenTech,P006,Mouse,Accessories,R002,South,2023-02-06,2,863,1726,Shipped
+ORD-0492,C006,GreenTech,P004,Monitor,Electronics,R002,South,2023-02-06,3,241,723,Shipped
+ORD-0492,C006,GreenTech,P003,Tablet,Electronics,R002,South,2023-02-06,5,222,1110,Shipped
+ORD-0493,C002,InnovaSolutions,P004,Monitor,Electronics,R001,North,2023-11-10,3,949,2847,Delivered
+ORD-0493,C002,InnovaSolutions,P003,Tablet,Electronics,R001,North,2023-11-10,5,1072,5360,Delivered
+ORD-0493,C002,InnovaSolutions,P007,Headphones,Accessories,R001,North,2023-11-10,2,821,1642,Delivered
+ORD-0494,C007,NextGen Consulting,P001,Laptop,Electronics,R003,East,2023-02-27,1,551,551,Delivered
+ORD-0494,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-02-27,3,1200,3600,Delivered
+ORD-0494,C007,NextGen Consulting,P005,Keyboard,Accessories,R003,East,2023-02-27,3,1422,4266,Delivered
+ORD-0495,C001,TechCorp,P007,Headphones,Accessories,R004,West,2023-05-17,2,194,388,Shipped
+ORD-0496,C003,DataWorks,P006,Mouse,Accessories,R002,South,2023-11-07,4,1020,4080,Cancelled
+ORD-0496,C003,DataWorks,P008,Smartwatch,Electronics,R002,South,2023-11-07,5,525,2625,Cancelled
+ORD-0497,C001,TechCorp,P004,Monitor,Electronics,R004,West,2023-10-19,5,912,4560,Shipped
+ORD-0497,C001,TechCorp,P002,Smartphone,Electronics,R004,West,2023-10-19,3,1065,3195,Shipped
+ORD-0498,C006,GreenTech,P006,Mouse,Accessories,R002,South,2023-08-12,3,1245,3735,Shipped
+ORD-0498,C006,GreenTech,P003,Tablet,Electronics,R002,South,2023-08-12,1,1219,1219,Shipped
+ORD-0498,C006,GreenTech,P007,Headphones,Accessories,R002,South,2023-08-12,1,544,544,Shipped
+ORD-0499,C001,TechCorp,P008,Smartwatch,Electronics,R003,East,2023-08-18,1,1091,1091,Delivered
+ORD-0499,C001,TechCorp,P005,Keyboard,Accessories,R003,East,2023-08-18,3,1225,3675,Delivered
+ORD-0499,C001,TechCorp,P004,Monitor,Electronics,R003,East,2023-08-18,4,346,1384,Delivered
+ORD-0500,C007,NextGen Consulting,P002,Smartphone,Electronics,R003,East,2023-04-07,3,192,576,Pending
+ORD-0500,C007,NextGen Consulting,P003,Tablet,Electronics,R003,East,2023-04-07,5,497,2485,Pending
