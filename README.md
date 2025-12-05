@@ -2,6 +2,16 @@
 # Objectif
 Ce projet consiste à créer un tableau de bord interactif sous Power BI pour analyser les ventes d’une entreprise à partir d’un fichier CSV (sales_2.csv).
 L’objectif est de structurer les données, normaliser le modèle et concevoir des visualisations pour le suivi des ventes et des commandes annulées.
+Competences Mobilisés
+•	Préparation complète d'un projet BI
+•	Nettoyage et transformation des données avec Power Query
+•	Normalisation des tables (modèle propre et cohérent)
+•	Utilisation du langage M (Power Query / Mashup)
+•	Modélisation en étoile pour structurer les relations
+•	Création de mesures DAX pour les KPI
+•	Mise en place d' info-bulles personnalisées
+•	Personnalisation du rapport et mise en page
+•	Ajout de filtres et fonctionnalités interactives
 
 Étapes du projet
 1. Préparation des données
@@ -18,17 +28,18 @@ Renommage des colonnes avec des libellés explicites (Id commande, Id client, No
 
 
 2. Normalisation du modèle
-
-Création de tables de référence :
-
-Clients (Id client, Nom client)
-Produits (Id produit, Nom produit, Catégorie)
-Régions (Id région, Nom région)
-
-
-Vérification des anomalies (doublons, incohérences).
-Création de la table Ventes (référence à la table brute, suppression des colonnes inutiles).
-
+   
+Création de tables de référence pour structurer les dimensions du modèle :
+- Clients : (Id client, Nom client)
+- Produits : (Id produit, Nom produit, Catégorie produit)
+- Régions : (Id région, Nom région)
+Ces tables ont été extraites de la table brute pour garantir un modèle plus lisible, cohérent et évolutif.
+Des vérifications ont été effectuées pour détecter les doublons et incohérences.
+La table Ventes a été construite comme table de faits, en conservant uniquement les colonnes nécessaires à l’analyse (Date commande, Ids, Statut, Prix, Quantité…).
+   Modélisation en étoile
+Le modèle mis en place suit une structure en étoile, avec :
+- Une table de faits centrale : Ventes
+- Des tables de dimensions : Clients, Produits, Régions, et une table de mesures calculées (Mesure)
 
 3. Modélisation
 
@@ -42,7 +53,7 @@ Test de cohérence (exemple : Id commande → Nom produit).
 Thème personnalisé : Loomy Lime (JSON importé).
 Mise en page :
 
-Hauteur : 2000 px
+Hauteur : 1700 px
 Couleur de fond : #1E2D38
 Couleur des briques : #232448
 
@@ -53,9 +64,6 @@ Total ventes = SUM(Ventes[Prix total])
 Nombre de commandes = DISTINCTCOUNT(Ventes[Id commande])
 Quantité vendue = SUM(Ventes[Quantité])
 Commande moyenne = DIVIDE([Total ventes], [Nombre de commandes])
-
-
-
 
 5. Visualisations
 
