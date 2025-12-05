@@ -2,7 +2,9 @@
 # Objectif
 Ce projet consiste à créer un tableau de bord interactif sous Power BI pour analyser les ventes d’une entreprise à partir d’un fichier CSV (sales_2.csv).
 L’objectif est de structurer les données, normaliser le modèle et concevoir des visualisations pour le suivi des ventes et des commandes annulées.
-Competences Mobilisés
+
+# Competences Mobilisés
+
 •	Préparation complète d'un projet BI
 •	Nettoyage et transformation des données avec Power Query
 •	Normalisation des tables (modèle propre et cohérent)
@@ -13,7 +15,7 @@ Competences Mobilisés
 •	Personnalisation du rapport et mise en page
 •	Ajout de filtres et fonctionnalités interactives
 
-Étapes du projet
+# Étapes du projet
 1. Préparation des données
 
 Importation du fichier sales_2.csv dans Power Query.
